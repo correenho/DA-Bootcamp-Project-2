@@ -1,0 +1,627 @@
+,address,price,details,zipcode,latitude,longitude,zpid,link
+0,4208 Tulane Ave,"$1,423,500","5 bds 4 ba 3,850 sqft",90808,33.834447,-118.12702,21185205,https://www.zillow.com/homedetails/4208-Tulane-Ave-Long-Beach-CA-90808/21185205_zpid/
+1,1582 W 31st St,"$649,999","5 bds 3 ba 2,209 sqft",90810,33.813704,-118.214044,21246921,https://www.zillow.com/homedetails/1582-W-31st-St-Long-Beach-CA-90810/21246921_zpid/
+2,3615 Faust Ave,"$849,000","3 bds 2 ba 1,664 sqft",90808,33.822757,-118.114885,21187416,https://www.zillow.com/homedetails/3615-Faust-Ave-Long-Beach-CA-90808/21187416_zpid/
+3,1312 E Luray St,"$659,000","4 bds 2 ba 1,836 sqft",90807,33.846127,-118.174668,21158828,https://www.zillow.com/homedetails/1312-E-Luray-St-Long-Beach-CA-90807/21158828_zpid/
+4,5615 Dairy Ave,"$439,000",3 bds 1 ba 956 sqft,90805,33.857865,-118.193043,82869416,https://www.zillow.com/homedetails/5615-Dairy-Ave-Long-Beach-CA-90805/82869416_zpid/
+5,1844 E 65th St,"$475,000","2 bds 1 ba 1,260 sqft",90805,33.872573,-118.169831,21146675,https://www.zillow.com/homedetails/1844-E-65th-St-Long-Beach-CA-90805/21146675_zpid/
+6,1701 Orizaba Ave,"$449,000",3 bds 2 ba 892 sqft,90804,33.788193,-118.156965,21226948,https://www.zillow.com/homedetails/1701-Orizaba-Ave-Long-Beach-CA-90804/21226948_zpid/
+7,2631 Daisy Ave,"$450,000","2 bds 1 ba 1,112 sqft",90806,33.804973,-118.199466,21191949,https://www.zillow.com/homedetails/2631-Daisy-Ave-Long-Beach-CA-90806/21191949_zpid/
+8,100 Atlantic Ave APT 811,"$250,000",Studio1 ba 490 sqft,90802,33.768401,-118.184614,111372394,https://www.zillow.com/homedetails/100-Atlantic-Ave-APT-811-Long-Beach-CA-90802/111372394_zpid/
+9,6831 E Septimo St,"$879,900","4 bds 2 ba 1,626 sqft",90815,33.775591,-118.100323,21211641,https://www.zillow.com/homedetails/6831-E-Septimo-St-Long-Beach-CA-90815/21211641_zpid/
+10,63 Pomona Ave,"$1,600,000","3 bds 3 ba 2,119 sqft",90803,33.755895,-118.13426,21219531,https://www.zillow.com/homedetails/63-Pomona-Ave-Long-Beach-CA-90803/21219531_zpid/
+11,4550 Graywood Ave,"$1,129,000","4 bds 3 ba 2,700 sqft",90808,33.841083,-118.137875,21184428,https://www.zillow.com/homedetails/4550-Graywood-Ave-Long-Beach-CA-90808/21184428_zpid/
+12,115 E 59th St,"$575,000","3 bds 2 ba 1,621 sqft",90805,33.863009,-118.193751,21151906,https://www.zillow.com/homedetails/115-E-59th-St-Long-Beach-CA-90805/21151906_zpid/
+13,5455 Dairy Ave,"$469,900",2 bds 1 ba 640 sqft,90805,33.855341,-118.19448,21152749,https://www.zillow.com/homedetails/5455-Dairy-Ave-Long-Beach-CA-90805/21152749_zpid/
+14,3763 Faust Ave,"$724,900","3 bds 2 ba 1,807 sqft",90808,33.826829,-118.11492,21187296,https://www.zillow.com/homedetails/3763-Faust-Ave-Long-Beach-CA-90808/21187296_zpid/
+15,1450 Locust Ave APT 123,"$179,900",1 bd1 ba 471 sqft,90813,33.784963,-118.190719,21235211,https://www.zillow.com/homedetails/1450-Locust-Ave-APT-123-Long-Beach-CA-90813/21235211_zpid/
+16,6274 E Marina View Dr # 318,"$304,999","2 bds 2 ba 1,350 sqft",90803,33.767984,-118.113642,2082272498,https://www.zillow.com/homedetails/6274-E-Marina-View-Dr-318-Long-Beach-CA-90803/2082272498_zpid/
+17,5436 E The Toledo,"$6,400,000","4 bds 4 ba 4,622 sqft",90803,33.75689,-118.129387,90137713,https://www.zillow.com/homedetails/5436-E-The-Toledo-Long-Beach-CA-90803/90137713_zpid/
+18,4724 Montair Ave,"$699,990","3 bds 2 ba 1,432 sqft",90808,33.843758,-118.12604,21183644,https://www.zillow.com/homedetails/4724-Montair-Ave-Long-Beach-CA-90808/21183644_zpid/
+19,640 W 4th St UNIT 314,"$315,000",1 bd1 ba 622 sqft,90802,33.77162,-118.20044,21239448,https://www.zillow.com/homedetails/640-W-4th-St-UNIT-314-Long-Beach-CA-90802/21239448_zpid/
+20,1730 Lemon Ave,"$485,000","3 bds 2 ba 1,286 sqft",90813,33.789118,-118.178187,21234669,https://www.zillow.com/homedetails/1730-Lemon-Ave-Long-Beach-CA-90813/21234669_zpid/
+21,3772 Albury Ave,"$915,000","6 bds 4 ba 2,700 sqft",90808,33.827169,-118.116959,21186146,https://www.zillow.com/homedetails/3772-Albury-Ave-Long-Beach-CA-90808/21186146_zpid/
+22,1770 Ximeno Ave APT 206,"$400,000","2 bds 2 ba 1,076 sqft",90815,33.789477,-118.138436,21201021,https://www.zillow.com/homedetails/1770-Ximeno-Ave-APT-206-Long-Beach-CA-90815/21201021_zpid/
+23,3008 Shadypark Dr,"$825,000","5 bds 2 ba 2,104 sqft",90808,33.810845,-118.113486,21191491,https://www.zillow.com/homedetails/3008-Shadypark-Dr-Long-Beach-CA-90808/21191491_zpid/
+24,4738 Pearce Ave,"$565,000",2 bds 1 ba 888 sqft,90808,33.84417,-118.1296,21183454,https://www.zillow.com/homedetails/4738-Pearce-Ave-Long-Beach-CA-90808/21183454_zpid/
+25,215 E Ellis St,"$550,000","3 bds 2 ba 1,474 sqft",90805,33.856982,-118.191375,21152579,https://www.zillow.com/homedetails/215-E-Ellis-St-Long-Beach-CA-90805/21152579_zpid/
+26,2946 Gale Ave,"$559,900","3 bds 3 ba 1,666 sqft",90810,33.810723,-118.207534,21246977,https://www.zillow.com/homedetails/2946-Gale-Ave-Long-Beach-CA-90810/21246977_zpid/
+27,100 Atlantic Ave APT 612,"$418,000",2 bds 1 ba 730 sqft,90802,33.768401,-118.184614,111371076,https://www.zillow.com/homedetails/100-Atlantic-Ave-APT-612-Long-Beach-CA-90802/111371076_zpid/
+28,7040 E Mezzanine Way,"$1,195,000","4 bds 2 ba 2,055 sqft",90808,33.814386,-118.095832,21140652,https://www.zillow.com/homedetails/7040-E-Mezzanine-Way-Long-Beach-CA-90808/21140652_zpid/
+29,504 Nebraska Ave,"$525,000",2 bds 2 ba 830 sqft,90802,33.772923,-118.173381,65399137,https://www.zillow.com/homedetails/504-Nebraska-Ave-Long-Beach-CA-90802/65399137_zpid/
+30,4774 E Malta St APT 1,"$549,900","3 bds 3 ba 1,660 sqft",90815,33.787051,-118.13694,83894878,https://www.zillow.com/homedetails/4774-E-Malta-St-APT-1-Long-Beach-CA-90815/83894878_zpid/
+31,3603 Ostrom Ave,"$784,900","3 bds 2 ba 1,659 sqft",90808,33.823118,-118.101258,21137081,https://www.zillow.com/homedetails/3603-Ostrom-Ave-Long-Beach-CA-90808/21137081_zpid/
+32,5150 E Wardlow Rd,"$658,000","4 bds 2 ba 1,604 sqft",90808,33.818537,-118.131996,21189234,https://www.zillow.com/homedetails/5150-E-Wardlow-Rd-Long-Beach-CA-90808/21189234_zpid/
+33,20 37th Pl,"$10,995,000","3 bds 6 ba 7,692 sqft",90803,33.760005,-118.149641,21223773,https://www.zillow.com/homedetails/20-37th-Pl-Long-Beach-CA-90803/21223773_zpid/
+34,2840 E 10th St,"$615,000","2 bds 2 ba 1,119 sqft",90804,33.778814,-118.158078,21226075,https://www.zillow.com/homedetails/2840-E-10th-St-Long-Beach-CA-90804/21226075_zpid/
+35,6425 Orizaba Ave,"$639,900","3 bds 2 ba 1,463 sqft",90805,33.871443,-118.158094,21149199,https://www.zillow.com/homedetails/6425-Orizaba-Ave-Long-Beach-CA-90805/21149199_zpid/
+36,1517 E 16th St,"$369,000",1 bd1 ba 582 sqft,90813,33.787256,-118.172703,21234800,https://www.zillow.com/homedetails/1517-E-16th-St-Long-Beach-CA-90813/21234800_zpid/
+37,5203 E Spring St,"$689,000","3 bds 2 ba 1,130 sqft",90808,33.81094,-118.131929,21189936,https://www.zillow.com/homedetails/5203-E-Spring-St-Long-Beach-CA-90808/21189936_zpid/
+38,4219 E 6th St,"$995,000","4 bds 3 ba 2,013 sqft",90814,33.773687,-118.143198,21213673,https://www.zillow.com/homedetails/4219-E-6th-St-Long-Beach-CA-90814/21213673_zpid/
+39,1171 Bryant Rd,"$2,595,000","5 bds 4 ba 4,134 sqft",90815,33.780695,-118.124726,21213242,https://www.zillow.com/homedetails/1171-Bryant-Rd-Long-Beach-CA-90815/21213242_zpid/
+40,2160 Pine Ave,"$620,000","4 bds 2 ba 2,144 sqft",90806,33.796423,-118.192258,21194869,https://www.zillow.com/homedetails/2160-Pine-Ave-Long-Beach-CA-90806/21194869_zpid/
+41,85 Prospect Ave,"$1,079,900","3 bds 1 ba 1,390 sqft",90803,33.759457,-118.142166,21224847,https://www.zillow.com/homedetails/85-Prospect-Ave-Long-Beach-CA-90803/21224847_zpid/
+42,2905 Magnolia Ave,"$834,900","3 bds 3 ba 2,393 sqft",90806,33.809964,-118.198382,21191560,https://www.zillow.com/homedetails/2905-Magnolia-Ave-Long-Beach-CA-90806/21191560_zpid/
+43,3126 Charlemagne Ave,"$739,900","3 bds 2 ba 1,309 sqft",90808,33.813865,-118.130089,21189755,https://www.zillow.com/homedetails/3126-Charlemagne-Ave-Long-Beach-CA-90808/21189755_zpid/
+44,2919 E Vista St,"$1,199,999","5 bds 2 ba 2,054 sqft",90803,33.766335,-118.157429,21225669,https://www.zillow.com/homedetails/2919-E-Vista-St-Long-Beach-CA-90803/21225669_zpid/
+45,1723 Cedar Ave UNIT 318,"$315,000",2 bds 2 ba 826 sqft,90813,33.788686,-118.195427,21235507,https://www.zillow.com/homedetails/1723-Cedar-Ave-UNIT-318-Long-Beach-CA-90813/21235507_zpid/
+46,3714 Maine Ave,"$649,000","3 bds 2 ba 1,825 sqft",90806,33.821923,-118.200986,21193828,https://www.zillow.com/homedetails/3714-Maine-Ave-Long-Beach-CA-90806/21193828_zpid/
+47,3595 Santa Fe Ave SPC 288,"$499,000","3 bds 2 ba 1,600 sqft",90810,33.820369,-118.218058,2083544561,https://www.zillow.com/homedetails/3595-Santa-Fe-Ave-SPC-288-Long-Beach-CA-90810/2083544561_zpid/
+48,1582 W 31st St,"$649,999","5 bds 3 ba 2,209 sqft",90810,33.813704,-118.214044,21246921,https://www.zillow.com/homedetails/1582-W-31st-St-Long-Beach-CA-90810/21246921_zpid/
+49,800 E Ocean Blvd UNIT 1508,"$750,000","2 bds 2 ba 2,872 sqft",90802,33.765783,-118.182674,21231404,https://www.zillow.com/homedetails/800-E-Ocean-Blvd-UNIT-1508-Long-Beach-CA-90802/21231404_zpid/
+50,3721 E Poppy St,"$549,000","3 bds 2 ba 1,386 sqft",90805,33.868771,-118.148566,21171149,https://www.zillow.com/homedetails/3721-E-Poppy-St-Long-Beach-CA-90805/21171149_zpid/
+51,1318 E 2nd St APT 10,"$519,000","2 bds 2 ba 1,065 sqft",90802,33.767234,-118.174676,21232132,https://www.zillow.com/homedetails/1318-E-2nd-St-APT-10-Long-Beach-CA-90802/21232132_zpid/
+52,5454 E Ocean Blvd,"$4,299,000","5 bds 3 ba 2,730 sqft",90803,33.752128,-118.130455,21217248,https://www.zillow.com/homedetails/5454-E-Ocean-Blvd-Long-Beach-CA-90803/21217248_zpid/
+53,4200 E Broadway,"$1,625,000","3 bds 3 ba 2,161 sqft",90803,33.764209,-118.14351,21224372,https://www.zillow.com/homedetails/4200-E-Broadway-Long-Beach-CA-90803/21224372_zpid/
+54,6538 E Rosebay St,"$899,000","4 bds 3 ba 2,530 sqft",90808,33.813594,-118.104857,21141494,https://www.zillow.com/homedetails/6538-E-Rosebay-St-Long-Beach-CA-90808/21141494_zpid/
+55,1511 N Greenbrier Rd,"$1,175,000","4 bds 3 ba 2,480 sqft",90815,33.786157,-118.13372,21212958,https://www.zillow.com/homedetails/1511-N-Greenbrier-Rd-Long-Beach-CA-90815/21212958_zpid/
+56,5431 E Conant St,"$898,000","5 bds 4 ba 3,044 sqft",90808,33.825314,-118.126351,21185409,https://www.zillow.com/homedetails/5431-E-Conant-St-Long-Beach-CA-90808/21185409_zpid/
+57,1841 Lave Ave,"$1,088,000","4 bds 3 ba 3,295 sqft",90815,33.789608,-118.120365,21204013,https://www.zillow.com/homedetails/1841-Lave-Ave-Long-Beach-CA-90815/21204013_zpid/
+58,4765 Lemon Ave,"$595,000","3 bds 2 ba 1,491 sqft",90807,33.844911,-118.179659,21158061,https://www.zillow.com/homedetails/4765-Lemon-Ave-Long-Beach-CA-90807/21158061_zpid/
+59,1310 W Spring St,"$475,000","2 bds 2 ba 1,324 sqft",90810,33.811422,-118.20914,21247053,https://www.zillow.com/homedetails/1310-W-Spring-St-Long-Beach-CA-90810/21247053_zpid/
+60,1901 E Ocean Blvd UNIT 302,"$799,000","2 bds 3 ba 1,528 sqft",90802,33.764892,-118.168817,21232675,https://www.zillow.com/homedetails/1901-E-Ocean-Blvd-UNIT-302-Long-Beach-CA-90802/21232675_zpid/
+61,80 Park Ave,"$1,079,000","3 bds 2 ba 1,334 sqft",90803,33.758417,-118.139739,21219357,https://www.zillow.com/homedetails/80-Park-Ave-Long-Beach-CA-90803/21219357_zpid/
+62,2255 San Vicente Ave,"$690,000",2 bds 1 ba 957 sqft,90815,33.797631,-118.117311,21205036,https://www.zillow.com/homedetails/2255-San-Vicente-Ave-Long-Beach-CA-90815/21205036_zpid/
+63,460 Medford Ct UNIT 101,"$769,000","2 bds 3 ba 2,120 sqft",90803,33.772918,-118.114893,21210778,https://www.zillow.com/homedetails/460-Medford-Ct-UNIT-101-Long-Beach-CA-90803/21210778_zpid/
+64,2225 E 2nd St APT 2,"$295,000",1 bd1 ba 524 sqft,90803,33.766328,-118.164495,21230938,https://www.zillow.com/homedetails/2225-E-2nd-St-APT-2-Long-Beach-CA-90803/21230938_zpid/
+65,2674 Delta Ave,"$409,946","3 bds 1 ba 1,392 sqft",90810,33.805834,-118.210777,21247574,https://www.zillow.com/homedetails/2674-Delta-Ave-Long-Beach-CA-90810/21247574_zpid/
+66,2195 Santa Fe Ave,"$629,000","4 bds 3 ba 1,559 sqft",90810,33.796926,-118.215599,2089013412,https://www.zillow.com/homedetails/2195-Santa-Fe-Ave-Long-Beach-CA-90810/2089013412_zpid/
+67,5277 E Ocean Blvd,"$2,790,000","4 bds 3 ba 3,000 sqft",90803,33.755448,-118.135767,21219522,https://www.zillow.com/homedetails/5277-E-Ocean-Blvd-Long-Beach-CA-90803/21219522_zpid/
+68,300 Moonstone,"$1,997,500","4 bds 3 ba 2,531 sqft",90803,33.764712,-118.123651,21215451,https://www.zillow.com/homedetails/300-Moonstone-Long-Beach-CA-90803/21215451_zpid/
+69,332 W 8th St,"$659,000","4 bds 2 ba 1,712 sqft",90813,33.776352,-118.195909,21236170,https://www.zillow.com/homedetails/332-W-8th-St-Long-Beach-CA-90813/21236170_zpid/
+70,437 Obispo Ave,"$849,000","2 bds 1 ba 1,484 sqft",90814,33.772466,-118.154849,21225031,https://www.zillow.com/homedetails/437-Obispo-Ave-Long-Beach-CA-90814/21225031_zpid/
+71,311 Flint Ave,"$1,188,000","3 bds 3 ba 2,588 sqft",90814,33.768506,-118.123378,60296158,https://www.zillow.com/homedetails/311-Flint-Ave-Long-Beach-CA-90814/60296158_zpid/
+72,6726 Harbor Ave,"$454,900",3 bds 1 ba 884 sqft,90805,33.876465,-118.206923,21243497,https://www.zillow.com/homedetails/6726-Harbor-Ave-Long-Beach-CA-90805/21243497_zpid/
+73,122 Elm Ave APT 1,"$429,900",2 bds 2 ba 850 sqft,90802,33.768534,-118.18737,121306783,https://www.zillow.com/homedetails/122-Elm-Ave-APT-1-Long-Beach-CA-90802/121306783_zpid/
+74,4201 E Ransom St,"$660,000","3 bds 3 ba 4,560 sqft",90804,33.786939,-118.143628,21221916,https://www.zillow.com/homedetails/4201-E-Ransom-St-Long-Beach-CA-90804/21221916_zpid/
+75,723 Elm Ave APT J,"$270,000",2 bds 1 ba 796 sqft,90813,33.775791,-118.188043,21236994,https://www.zillow.com/homedetails/723-Elm-Ave-APT-J-Long-Beach-CA-90813/21236994_zpid/
+76,2032 E Bermuda St UNIT 105,"$505,900","2 bds 2 ba 1,333 sqft",90814,33.769618,-118.166806,21229118,https://www.zillow.com/homedetails/2032-E-Bermuda-St-UNIT-105-Long-Beach-CA-90814/21229118_zpid/
+77,3401 E Wilton St UNIT 307,"$415,000",2 bds 2 ba 841 sqft,90804,33.787843,-118.152049,21226467,https://www.zillow.com/homedetails/3401-E-Wilton-St-UNIT-307-Long-Beach-CA-90804/21226467_zpid/
+78,955 E 3rd St UNIT 310,"$449,000","2 bds 2 ba 1,045 sqft",90802,33.770992,-118.180628,50878742,https://www.zillow.com/homedetails/955-E-3rd-St-UNIT-310-Long-Beach-CA-90802/50878742_zpid/
+79,1371 Grand Ave,"$600,000","3 bds 2 ba 1,424 sqft",90804,33.784437,-118.148367,21221636,https://www.zillow.com/homedetails/1371-Grand-Ave-Long-Beach-CA-90804/21221636_zpid/
+80,150 The Promenade N UNIT 417,"$420,000",1 bd1 ba 750 sqft,90802,33.768911,-118.190759,82582681,https://www.zillow.com/homedetails/150-The-Promenade-N-UNIT-417-Long-Beach-CA-90802/82582681_zpid/
+81,2295 Olive Ave,"$440,000",2 bds 1 ba 660 sqft,90806,33.798798,-118.183037,21197563,https://www.zillow.com/homedetails/2295-Olive-Ave-Long-Beach-CA-90806/21197563_zpid/
+82,3529 E Broadway # 8,"$475,000",2 bds 2 ba 880 sqft,90803,33.764733,-118.150627,82235564,https://www.zillow.com/homedetails/3529-E-Broadway-8-Long-Beach-CA-90803/82235564_zpid/
+83,3358 Elm Ave UNIT 22,"$229,477",2 bds 2 ba 977 sqft,90807,33.818362,-118.187729,2083605694,https://www.zillow.com/homedetails/3358-Elm-Ave-UNIT-22-Long-Beach-CA-90807/2083605694_zpid/
+84,6815 E Pageantry St,"$819,000","3 bds 2 ba 1,328 sqft",90808,33.81345,-118.101153,21141281,https://www.zillow.com/homedetails/6815-E-Pageantry-St-Long-Beach-CA-90808/21141281_zpid/
+85,3810 E 1st St,"$925,000","3 bds 1 ba 1,308 sqft",90803,33.761195,-118.147731,21223875,https://www.zillow.com/homedetails/3810-E-1st-St-Long-Beach-CA-90803/21223875_zpid/
+86,4619 Sunfield Ave,"$985,000","5 bds 4 ba 2,242 sqft",90808,33.841896,-118.135282,21184351,https://www.zillow.com/homedetails/4619-Sunfield-Ave-Long-Beach-CA-90808/21184351_zpid/
+87,311 E Eleanor Ln,"$519,900","3 bds 2 ba 1,085 sqft",90805,33.878325,-118.196436,21242659,https://www.zillow.com/homedetails/311-E-Eleanor-Ln-Long-Beach-CA-90805/21242659_zpid/
+88,6432 E Wardlow Rd,"$680,000","3 bds 1 ba 1,243 sqft",90808,33.818543,-118.106604,21140811,https://www.zillow.com/homedetails/6432-E-Wardlow-Rd-Long-Beach-CA-90808/21140811_zpid/
+89,3438 Woodruff Ave,"$629,900","3 bds 2 ba 1,386 sqft",90808,33.820022,-118.116045,21188044,https://www.zillow.com/homedetails/3438-Woodruff-Ave-Long-Beach-CA-90808/21188044_zpid/
+90,710 E Sunrise Blvd,"$999,000","3 bds 4 ba 3,177 sqft",90806,33.802168,-118.183781,21197396,https://www.zillow.com/homedetails/710-E-Sunrise-Blvd-Long-Beach-CA-90806/21197396_zpid/
+91,1485 Obispo Ave APT 6,"$300,000",2 bds 1 ba 850 sqft,90804,33.785966,-118.15489,82868383,https://www.zillow.com/homedetails/1485-Obispo-Ave-APT-6-Long-Beach-CA-90804/82868383_zpid/
+92,3450 N El Dorado Dr,"$845,000","3 bds 2 ba 1,710 sqft",90808,33.81956,-118.073018,21138329,https://www.zillow.com/homedetails/3450-N-El-Dorado-Dr-Long-Beach-CA-90808/21138329_zpid/
+93,2237 N Bellflower Blvd,"$699,000","3 bds 1 ba 1,100 sqft",90815,33.797572,-118.125789,21202938,https://www.zillow.com/homedetails/2237-N-Bellflower-Blvd-Long-Beach-CA-90815/21202938_zpid/
+94,5845 Rose Ave,"$515,000","3 bds 1 ba 1,024 sqft",90805,33.861045,-118.170834,21150544,https://www.zillow.com/homedetails/5845-Rose-Ave-Long-Beach-CA-90805/21150544_zpid/
+95,800 Pacific Ave APT 205,"$249,900",1 bd1 ba 672 sqft,90813,33.776865,-118.193403,21236894,https://www.zillow.com/homedetails/800-Pacific-Ave-APT-205-Long-Beach-CA-90813/21236894_zpid/
+96,1770 Ximeno Ave APT 306,"$380,000","2 bds 2 ba 1,076 sqft",90815,33.789667,-118.138221,21201039,https://www.zillow.com/homedetails/1770-Ximeno-Ave-APT-306-Long-Beach-CA-90815/21201039_zpid/
+97,1091 Lewis Ave,"$748,000","4 bds 2 ba 1,400 sqft",90813,33.780631,-118.179793,21237159,https://www.zillow.com/homedetails/1091-Lewis-Ave-Long-Beach-CA-90813/21237159_zpid/
+98,2999 E Ocean Blvd UNIT 1830,"$1,018,888","3 bds 2 ba 1,510 sqft",90803,33.762564,-118.158168,21230402,https://www.zillow.com/homedetails/2999-E-Ocean-Blvd-UNIT-1830-Long-Beach-CA-90803/21230402_zpid/
+99,3565 N Weston Pl,"$689,000","3 bds 2 ba 1,340 sqft",90807,33.821454,-118.191838,21162086,https://www.zillow.com/homedetails/3565-N-Weston-Pl-Long-Beach-CA-90807/21162086_zpid/
+100,367 Coronado Ave,"$1,249,000","4 bds 3 ba 2,654 sqft",90814,33.770574,-118.153816,21225210,https://www.zillow.com/homedetails/367-Coronado-Ave-Long-Beach-CA-90814/21225210_zpid/
+101,176 Granada Ave,"$1,150,000","3 bds 2 ba 1,669 sqft",90803,33.759962,-118.136111,21218941,https://www.zillow.com/homedetails/176-Granada-Ave-Long-Beach-CA-90803/21218941_zpid/
+102,2020 W 23rd St APT 10,"$335,000",3 bds 2 ba 950 sqft,90810,33.798343,-118.219087,21286023,https://www.zillow.com/homedetails/2020-W-23rd-St-APT-10-Long-Beach-CA-90810/21286023_zpid/
+103,3441 Adriatic Ave,"$469,000","3 bds 2 ba 1,222 sqft",90810,33.819703,-118.214764,21246314,https://www.zillow.com/homedetails/3441-Adriatic-Ave-Long-Beach-CA-90810/21246314_zpid/
+104,1121 E Hellman St,"$539,990","3 bds 2 ba 1,142 sqft",90813,33.777106,-118.177701,21234180,https://www.zillow.com/homedetails/1121-E-Hellman-St-Long-Beach-CA-90813/21234180_zpid/
+105,3720 E Wilton St,"$839,000","5 bds 4 ba 2,100 sqft",90804,33.787311,-118.148734,21221553,https://www.zillow.com/homedetails/3720-E-Wilton-St-Long-Beach-CA-90804/21221553_zpid/
+106,3845 Cedar Ave,"$1,197,000","4 bds 4 ba 3,126 sqft",90807,33.828319,-118.196544,21161601,https://www.zillow.com/homedetails/3845-Cedar-Ave-Long-Beach-CA-90807/21161601_zpid/
+107,328 Eliot Ln,"$829,900","3 bds 1 ba 1,013 sqft",90814,33.769079,-118.135439,21221171,https://www.zillow.com/homedetails/328-Eliot-Ln-Long-Beach-CA-90814/21221171_zpid/
+108,5890 Gardenia Ave,"$684,000","3 bds 2 ba 1,600 sqft",90805,33.861823,-118.16932,21150500,https://www.zillow.com/homedetails/5890-Gardenia-Ave-Long-Beach-CA-90805/21150500_zpid/
+109,2261 Euclid Ave,"$799,900","4 bds 2 ba 1,536 sqft",90815,33.79831,-118.148574,21200351,https://www.zillow.com/homedetails/2261-Euclid-Ave-Long-Beach-CA-90815/21200351_zpid/
+110,564 N Bellflower Blvd UNIT 215,"$495,000","2 bds 2 ba 1,028 sqft",90814,33.771607,-118.120013,21218421,https://www.zillow.com/homedetails/564-N-Bellflower-Blvd-UNIT-215-Long-Beach-CA-90814/21218421_zpid/
+111,1405 E 1st St APT 11,"$315,000",1 bd1 ba 605 sqft,90802,33.766706,-118.174251,21232219,https://www.zillow.com/homedetails/1405-E-1st-St-APT-11-Long-Beach-CA-90802/21232219_zpid/
+112,3090 Elm Ave,"$929,900","5 bds 6 ba 3,229 sqft",90807,33.813298,-118.187963,21195604,https://www.zillow.com/homedetails/3090-Elm-Ave-Long-Beach-CA-90807/21195604_zpid/
+113,249 Tivoli Dr,"$1,347,000","4 bds 3 ba 2,843 sqft",90803,33.758567,-118.125981,21216337,https://www.zillow.com/homedetails/249-Tivoli-Dr-Long-Beach-CA-90803/21216337_zpid/
+114,3901 E Livingston Dr UNIT 201,"$509,000","2 bds 2 ba 1,145 sqft",90803,33.760751,-118.146678,21223900,https://www.zillow.com/homedetails/3901-E-Livingston-Dr-UNIT-201-Long-Beach-CA-90803/21223900_zpid/
+115,835 Locust Ave UNIT 414,"$564,900",1 bd1 ba 997 sqft,90813,33.77727,-118.191448,65252372,https://www.zillow.com/homedetails/835-Locust-Ave-UNIT-414-Long-Beach-CA-90813/65252372_zpid/
+116,1350000,"$1,350,000","4 bds 5 ba 3,232 sqft",90803,33.76162,-118.142853,2083579624,https://www.zillow.com/homedetails/1350000-Long-Beach-CA-90803/2083579624_zpid/
+117,2425 E 1st St,"$1,500,000","5 bds 5 ba 3,835 sqft",90803,33.764908,-118.163054,21230748,https://www.zillow.com/homedetails/2425-E-1st-St-Long-Beach-CA-90803/21230748_zpid/
+118,4937 E Colorado St,"$1,349,000","6 bds 4 ba 3,595 sqft",90814,33.770134,-118.135249,21221120,https://www.zillow.com/homedetails/4937-E-Colorado-St-Long-Beach-CA-90814/21221120_zpid/
+119,3925 E 5th St # 1A,$--,"3 bds 3 ba 1,822 sqft",90814,33.772863,-118.146566,21223190,https://www.zillow.com/homedetails/3925-E-5th-St-1A-Long-Beach-CA-90814/21223190_zpid/
+120,1365 Termino Ave,"$749,000","3 bds 2 ba 1,491 sqft",90804,33.784291,-118.146196,21221745,https://www.zillow.com/homedetails/1365-Termino-Ave-Long-Beach-CA-90804/21221745_zpid/
+121,4619 E 4th St # 2,"$605,000","2 bds 2 ba 1,401 sqft",90814,33.772254,-118.139085,21221035,https://www.zillow.com/homedetails/4619-E-4th-St-2-Long-Beach-CA-90814/21221035_zpid/
+122,233 E Louise St,"$399,000",2 bds 2 ba 672 sqft,90805,33.855355,-118.190983,21152801,https://www.zillow.com/homedetails/233-E-Louise-St-Long-Beach-CA-90805/21152801_zpid/
+123,360 W Ocean Blvd APT 209,"$299,000",Studio1 ba 490 sqft,90802,33.76682,-118.196181,21238596,https://www.zillow.com/homedetails/360-W-Ocean-Blvd-APT-209-Long-Beach-CA-90802/21238596_zpid/
+124,3605 E Anaheim St UNIT 317,"$410,000",2 bds 2 ba 925 sqft,90804,33.783062,-118.149753,21221700,https://www.zillow.com/homedetails/3605-E-Anaheim-St-UNIT-317-Long-Beach-CA-90804/21221700_zpid/
+125,325 Elm Ave APT 106,"$245,000",Studio1 ba 473 sqft,90802,33.77117,-118.187662,21240685,https://www.zillow.com/homedetails/325-Elm-Ave-APT-106-Long-Beach-CA-90802/21240685_zpid/
+126,144 N Loreta Walk,"$940,000","2 bds 1 ba 1,027 sqft",90803,33.755398,-118.120719,21215842,https://www.zillow.com/homedetails/144-N-Loreta-Walk-Long-Beach-CA-90803/21215842_zpid/
+127,5341 E El Parque St,"$2,000,000","4 bds 4 ba 3,929 sqft",90815,33.784672,-118.129705,21213058,https://www.zillow.com/homedetails/5341-E-El-Parque-St-Long-Beach-CA-90815/21213058_zpid/
+128,382 Coronado Ave APT 306A,"$440,000","2 bds 2 ba 1,030 sqft",90814,33.771192,-118.153172,49925876,https://www.zillow.com/homedetails/382-Coronado-Ave-APT-306A-Long-Beach-CA-90814/49925876_zpid/
+129,837 Chestnut Ave APT 12,"$249,000",1 bd1 ba 611 sqft,90813,33.777302,-118.196825,21236046,https://www.zillow.com/homedetails/837-Chestnut-Ave-APT-12-Long-Beach-CA-90813/21236046_zpid/
+130,3918 Elm Ave,"$1,225,000","4 bds 4 ba 3,463 sqft",90807,33.829643,-118.18754,21160994,https://www.zillow.com/homedetails/3918-Elm-Ave-Long-Beach-CA-90807/21160994_zpid/
+131,22 Prospect Ave,"$1,239,000","3 bds 2 ba 1,770 sqft",90803,33.758349,-118.142368,21224821,https://www.zillow.com/homedetails/22-Prospect-Ave-Long-Beach-CA-90803/21224821_zpid/
+132,2288 Albury Ave,"$949,900","5 bds 3 ba 3,030 sqft",90815,33.79887,-118.118698,21204879,https://www.zillow.com/homedetails/2288-Albury-Ave-Long-Beach-CA-90815/21204879_zpid/
+133,3024 E Broadway,"$725,000",2 bds 2 ba 888 sqft,90803,33.764799,-118.156544,2081670941,https://www.zillow.com/homedetails/3024-E-Broadway-Long-Beach-CA-90803/2081670941_zpid/
+134,4319 N Country Club Ln,"$2,390,000","5 bds 5 ba 4,522 sqft",90807,33.836369,-118.190451,21157526,https://www.zillow.com/homedetails/4319-N-Country-Club-Ln-Long-Beach-CA-90807/21157526_zpid/
+135,461 E 63rd St,"$487,196","3 bds 1 ba 1,115 sqft",90805,33.869145,-118.187057,21147473,https://www.zillow.com/homedetails/461-E-63rd-St-Long-Beach-CA-90805/21147473_zpid/
+136,2271 Roswell Ave,"$775,000","4 bds 3 ba 1,990 sqft",90815,33.798575,-118.143658,21200115,https://www.zillow.com/homedetails/2271-Roswell-Ave-Long-Beach-CA-90815/21200115_zpid/
+137,6025 Loynes Dr # 5,"$710,000","3 bds 3 ba 1,857 sqft",90803,33.768258,-118.115364,21210411,https://www.zillow.com/homedetails/6025-Loynes-Dr-5-Long-Beach-CA-90803/21210411_zpid/
+138,1870 Daisy Ave,"$675,000","2 bds 2 ba 1,295 sqft",90806,33.791173,-118.198944,21192983,https://www.zillow.com/homedetails/1870-Daisy-Ave-Long-Beach-CA-90806/21192983_zpid/
+139,5959 E Naples Plz UNIT 209,"$675,000","3 bds 2 ba 1,006 sqft",90803,33.75371,-118.118094,21215687,https://www.zillow.com/homedetails/5959-E-Naples-Plz-UNIT-209-Long-Beach-CA-90803/21215687_zpid/
+140,2735 Hackett Ave,"$714,000","3 bds 2 ba 1,173 sqft",90815,33.806287,-118.107199,21208318,https://www.zillow.com/homedetails/2735-Hackett-Ave-Long-Beach-CA-90815/21208318_zpid/
+141,224 Roycroft Ave,"$1,249,900","3 bds 2 ba 1,937 sqft",90803,33.76461,-118.138062,21220818,https://www.zillow.com/homedetails/224-Roycroft-Ave-Long-Beach-CA-90803/21220818_zpid/
+142,3595 Santa Fe Ave SPC 199,"$514,500","4 bds 2 ba 1,760 sqft",90810,33.82047,-118.218685,2081809283,https://www.zillow.com/homedetails/3595-Santa-Fe-Ave-SPC-199-Long-Beach-CA-90810/2081809283_zpid/
+143,5415 E Scrivener St,"$849,999","4 bds 3 ba 1,886 sqft",90808,33.814731,-118.12689,21189640,https://www.zillow.com/homedetails/5415-E-Scrivener-St-Long-Beach-CA-90808/21189640_zpid/
+144,3050 Oregon Ave,$--,"4 bds 2 ba 1,306 sqft",90806,33.812578,-118.20098,21193704,https://www.zillow.com/homedetails/3050-Oregon-Ave-Long-Beach-CA-90806/21193704_zpid/
+145,321 E Bort St,"$530,000","3 bds 2 ba 1,479 sqft",90805,33.870767,-118.195934,21244028,https://www.zillow.com/homedetails/321-E-Bort-St-Long-Beach-CA-90805/21244028_zpid/
+146,177 E 67th St,"$574,900","2 bds 2 ba 1,034 sqft",90805,33.876245,-118.201004,21243324,https://www.zillow.com/homedetails/177-E-67th-St-Long-Beach-CA-90805/21243324_zpid/
+147,488 E Ocean Blvd UNIT 1015,"$435,000",1 bd1 ba 720 sqft,90802,33.766222,-118.187548,68994695,https://www.zillow.com/homedetails/488-E-Ocean-Blvd-UNIT-1015-Long-Beach-CA-90802/68994695_zpid/
+148,1831 E Appleton St APT 11,"$289,000",1 bd1 ba 623 sqft,90802,33.76834,-118.168787,21238576,https://www.zillow.com/homedetails/1831-E-Appleton-St-APT-11-Long-Beach-CA-90802/21238576_zpid/
+149,2420 Gondar Ave,"$760,000","3 bds 2 ba 1,300 sqft",90815,33.802111,-118.112593,21206259,https://www.zillow.com/homedetails/2420-Gondar-Ave-Long-Beach-CA-90815/21206259_zpid/
+150,2248 Radnor Ave,"$1,150,000","3 bds 3 ba 2,164 sqft",90815,33.797535,-118.1185,21205003,https://www.zillow.com/homedetails/2248-Radnor-Ave-Long-Beach-CA-90815/21205003_zpid/
+151,400 W Ocean Blvd UNIT 803,"$660,000","2 bds 2 ba 1,440 sqft",90802,33.766764,-118.196741,89145959,https://www.zillow.com/homedetails/400-W-Ocean-Blvd-UNIT-803-Long-Beach-CA-90802/89145959_zpid/
+152,5500 Ackerfield Ave UNIT 405,"$275,000",2 bds 1 ba 873 sqft,90805,33.856531,-118.162914,21169709,https://www.zillow.com/homedetails/5500-Ackerfield-Ave-UNIT-405-Long-Beach-CA-90805/21169709_zpid/
+153,20 Palermo Walk,"$1,949,000","3 bds 3 ba 2,450 sqft",90803,33.752985,-118.126129,21216951,https://www.zillow.com/homedetails/20-Palermo-Walk-Long-Beach-CA-90803/21216951_zpid/
+154,140 Syracuse Walk,"$1,174,000","3 bds 2 ba 1,463 sqft",90803,33.754314,-118.120234,21215738,https://www.zillow.com/homedetails/140-Syracuse-Walk-Long-Beach-CA-90803/21215738_zpid/
+155,2621 Vuelta Grande Ave,"$745,000","3 bds 2 ba 1,555 sqft",90815,33.803573,-118.108799,21206116,https://www.zillow.com/homedetails/2621-Vuelta-Grande-Ave-Long-Beach-CA-90815/21206116_zpid/
+156,2343 E 17th St UNIT 311,"$329,000",2 bds 2 ba 822 sqft,90804,33.788395,-118.163723,21227036,https://www.zillow.com/homedetails/2343-E-17th-St-UNIT-311-Long-Beach-CA-90804/21227036_zpid/
+157,4485 Myrtle Ave,"$1,400,000","6 bds 4 ba 2,944 sqft",90807,33.836968,-118.182151,21158614,https://www.zillow.com/homedetails/4485-Myrtle-Ave-Long-Beach-CA-90807/21158614_zpid/
+158,5585 E Pacific Coast Hwy UNIT 154,"$363,000",2 bds 2 ba 913 sqft,90804,33.776449,-118.123396,21213480,https://www.zillow.com/homedetails/5585-E-Pacific-Coast-Hwy-UNIT-154-Long-Beach-CA-90804/21213480_zpid/
+159,4242 Locust Ave,"$1,349,000","3 bds 3 ba 2,964 sqft",90807,33.833921,-118.193228,21161669,https://www.zillow.com/homedetails/4242-Locust-Ave-Long-Beach-CA-90807/21161669_zpid/
+160,411 W Seaside Way UNIT 505,"$590,000","2 bds 2 ba 1,040 sqft",90802,33.766165,-118.196875,82582584,https://www.zillow.com/homedetails/411-W-Seaside-Way-UNIT-505-Long-Beach-CA-90802/82582584_zpid/
+161,6255 Riviera Cir,"$829,900","3 bds 3 ba 2,206 sqft",90815,33.775362,-118.109429,21212161,https://www.zillow.com/homedetails/6255-Riviera-Cir-Long-Beach-CA-90815/21212161_zpid/
+162,11 W Barclay St,"$625,000","3 bds 3 ba 1,903 sqft",90805,33.867258,-118.201089,21244227,https://www.zillow.com/homedetails/11-W-Barclay-St-Long-Beach-CA-90805/21244227_zpid/
+163,620 Flint Ave,"$1,250,000","3 bds 3 ba 2,596 sqft",90814,33.773932,-118.122748,21214291,https://www.zillow.com/homedetails/620-Flint-Ave-Long-Beach-CA-90814/21214291_zpid/
+164,454 E Adair St,"$454,900","3 bds 2 ba 1,349 sqft",90805,33.863955,-118.187254,21151762,https://www.zillow.com/homedetails/454-E-Adair-St-Long-Beach-CA-90805/21151762_zpid/
+165,5775 E Corso Di Napoli,"$3,995,000","3 bds 3 ba 2,339 sqft",90803,33.751773,-118.122254,21216055,https://www.zillow.com/homedetails/5775-E-Corso-Di-Napoli-Long-Beach-CA-90803/21216055_zpid/
+166,1 E Neapolitan Ln,"$2,250,000","4 bds 5 ba 3,000 sqft",90803,33.752391,-118.123088,21216020,https://www.zillow.com/homedetails/1-E-Neapolitan-Ln-Long-Beach-CA-90803/21216020_zpid/
+167,4208 Tulane Ave,"$1,423,500","5 bds 4 ba 3,850 sqft",90808,33.834447,-118.12702,21185205,https://www.zillow.com/homedetails/4208-Tulane-Ave-Long-Beach-CA-90808/21185205_zpid/
+168,3565 Linden Ave UNIT 208,"$295,000",1 bd1 ba 706 sqft,90807,33.821431,-118.186611,21162872,https://www.zillow.com/homedetails/3565-Linden-Ave-UNIT-208-Long-Beach-CA-90807/21162872_zpid/
+169,388 E Ocean Blvd 706 # 706,"$345,000",1 bd1 ba 680 sqft,90802,33.766227,-118.18756,2082907241,https://www.zillow.com/homedetails/388-E-Ocean-Blvd-706-706-Long-Beach-CA-90802/2082907241_zpid/
+170,6255 E Sea Breeze Dr # 28,"$229,000","3 bds 2 ba 1,488 sqft",90803,33.768072,-118.110048,2082120409,https://www.zillow.com/homedetails/6255-E-Sea-Breeze-Dr-28-Long-Beach-CA-90803/2082120409_zpid/
+171,5421 Heron Bay,"$899,900","3 bds 3 ba 1,769 sqft",90803,33.768465,-118.125153,21215202,https://www.zillow.com/homedetails/5421-Heron-Bay-Long-Beach-CA-90803/21215202_zpid/
+172,4598 Vacant Land,"$98,500","1,184 sqft lot",90814,33.771703,-118.144062,2082059863,https://www.zillow.com/homedetails/4598-Vacant-Land-Long-Beach-CA-90814/2082059863_zpid/
+173,1109 E 1st St APT 9,"$239,000",Studio1 ba 403 sqft,90802,33.767267,-118.178517,21232029,https://www.zillow.com/homedetails/1109-E-1st-St-APT-9-Long-Beach-CA-90802/21232029_zpid/
+174,3540 Orange Ave,"$1,250,000","5 bds 4 ba 2,710 sqft",90807,33.821054,-118.17599,21163945,https://www.zillow.com/homedetails/3540-Orange-Ave-Long-Beach-CA-90807/21163945_zpid/
+175,247 E Randolph Pl,"$925,500","3 bds 2 ba 1,410 sqft",90807,33.832127,-118.190206,21161205,https://www.zillow.com/homedetails/247-E-Randolph-Pl-Long-Beach-CA-90807/21161205_zpid/
+176,5058 E Atherton St,"$530,000","2 bds 2 ba 1,168 sqft",90815,33.789014,-118.135108,21201153,https://www.zillow.com/homedetails/5058-E-Atherton-St-Long-Beach-CA-90815/21201153_zpid/
+177,550 Orange Ave UNIT 139,"$329,000",1 bd1 ba 697 sqft,90802,33.773606,-118.175746,21233273,https://www.zillow.com/homedetails/550-Orange-Ave-UNIT-139-Long-Beach-CA-90802/21233273_zpid/
+178,207 E Broadway APT 801,"$2,490,000","2 bds 2 ba 2,810 sqft",90802,33.769458,-118.190848,82872292,https://www.zillow.com/homedetails/207-E-Broadway-APT-801-Long-Beach-CA-90802/82872292_zpid/
+179,955 E 3rd St UNIT 303,"$459,000","2 bds 2 ba 1,085 sqft",90802,33.771035,-118.180605,21237505,https://www.zillow.com/homedetails/955-E-3rd-St-UNIT-303-Long-Beach-CA-90802/21237505_zpid/
+180,5557 E Sorrento Dr,"$3,698,000","6 bds 5 ba 3,619 sqft",90803,33.759172,-118.125266,21216451,https://www.zillow.com/homedetails/5557-E-Sorrento-Dr-Long-Beach-CA-90803/21216451_zpid/
+181,110 Cordova Walk,"$1,499,000","4 bds 4 ba 2,505 sqft",90803,33.754628,-118.121048,21215774,https://www.zillow.com/homedetails/110-Cordova-Walk-Long-Beach-CA-90803/21215774_zpid/
+182,5681 E Vernon St,$--,"3 bds 2 ba 1,574 sqft",90815,33.802258,-118.121552,21204758,https://www.zillow.com/homedetails/5681-E-Vernon-St-Long-Beach-CA-90815/21204758_zpid/
+183,3420 Armourdale Ave,"$920,000","5 bds 3 ba 2,230 sqft",90808,33.818903,-118.079571,21137736,https://www.zillow.com/homedetails/3420-Armourdale-Ave-Long-Beach-CA-90808/21137736_zpid/
+184,1111 E Appleton St APT 3,"$299,900",1 bd1 ba 701 sqft,90802,33.769557,-118.178078,21237737,https://www.zillow.com/homedetails/1111-E-Appleton-St-APT-3-Long-Beach-CA-90802/21237737_zpid/
+185,26 Loma Ave,"$510,000","2 bds 2 ba 1,191 sqft",90803,33.761484,-118.150043,21223955,https://www.zillow.com/homedetails/26-Loma-Ave-Long-Beach-CA-90803/21223955_zpid/
+186,370 Wisconsin Ave UNIT 306,"$425,000","2 bds 2 ba 1,027 sqft",90814,33.770659,-118.16135,119679010,https://www.zillow.com/homedetails/370-Wisconsin-Ave-UNIT-306-Long-Beach-CA-90814/119679010_zpid/
+187,6264 E Marina View Dr # 313,"$185,000",2 bds 2 ba 960 sqft,90803,33.766236,-118.110089,2086495828,https://www.zillow.com/homedetails/6264-E-Marina-View-Dr-313-Long-Beach-CA-90803/2086495828_zpid/
+188,325 Cedar Ave UNIT 9,"$297,000",1 bd1 ba 818 sqft,90802,33.771119,-118.195434,21240379,https://www.zillow.com/homedetails/325-Cedar-Ave-UNIT-9-Long-Beach-CA-90802/21240379_zpid/
+189,831 Pine Ave,"$634,900","1 bd1 ba 1,606 sqft",90813,33.777244,-118.192428,2134250674,https://www.zillow.com/homedetails/831-Pine-Ave-Long-Beach-CA-90813/2134250674_zpid/
+191,2420 Granada Ave,"$739,000","3 bds 2 ba 1,730 sqft",90815,33.801532,-118.134869,21202500,https://www.zillow.com/homedetails/2420-Granada-Ave-Long-Beach-CA-90815/21202500_zpid/
+192,4701 Walnut Ave,"$639,900","3 bds 2 ba 1,634 sqft",90807,33.844221,-118.17176,21158693,https://www.zillow.com/homedetails/4701-Walnut-Ave-Long-Beach-CA-90807/21158693_zpid/
+194,3595 Santa Fe Ave SPC 142,"$480,000","3 bds 2 ba 1,600 sqft",90810,33.820369,-118.218058,2094905175,https://www.zillow.com/homedetails/3595-Santa-Fe-Ave-SPC-142-Long-Beach-CA-90810/2094905175_zpid/
+195,3695 Linden Ave UNIT 7C,"$370,000",1 bd1 ba 940 sqft,90807,33.823915,-118.186949,21162793,https://www.zillow.com/homedetails/3695-Linden-Ave-UNIT-7C-Long-Beach-CA-90807/21162793_zpid/
+196,360 W Ocean Blvd APT 1103,"$320,000",1 bd1 ba 472 sqft,90802,33.76682,-118.196181,21238662,https://www.zillow.com/homedetails/360-W-Ocean-Blvd-APT-1103-Long-Beach-CA-90802/21238662_zpid/
+197,3653 Denver Ave,"$484,900","4 bds 2 ba 1,181 sqft",90810,33.823313,-118.212085,95618404,https://www.zillow.com/homedetails/3653-Denver-Ave-Long-Beach-CA-90810/95618404_zpid/
+198,227 Ximeno Ave,"$1,199,000","2 bds 2 ba 1,814 sqft",90803,33.764276,-118.141774,21224391,https://www.zillow.com/homedetails/227-Ximeno-Ave-Long-Beach-CA-90803/21224391_zpid/
+199,66 Sicilian Walk,"$2,200,000","3 bds 3 ba 3,646 sqft",90803,33.752736,-118.121568,21216079,https://www.zillow.com/homedetails/66-Sicilian-Walk-Long-Beach-CA-90803/21216079_zpid/
+200,3751 Cedar Ave,"$1,135,000","3 bds 3 ba 2,643 sqft",90807,33.825985,-118.196274,21162487,https://www.zillow.com/homedetails/3751-Cedar-Ave-Long-Beach-CA-90807/21162487_zpid/
+201,1164 E Ocean Blvd,"$535,992",1 bd1 ba 902 sqft,90802,33.765211,-118.177716,21231756,https://www.zillow.com/homedetails/1164-E-Ocean-Blvd-Long-Beach-CA-90802/21231756_zpid/
+202,3346 Gale Ave,"Est. $308,619",2 bds 1.5 ba 791 sqft,90810,33.818001,-118.207515,21246552,https://www.zillow.com/homedetails/3346-Gale-Ave-Long-Beach-CA-90810/21246552_zpid/
+203,5828 Lime Ave,"$549,999","3 bds 2 ba 1,292 sqft",90805,33.860659,-118.183696,21151423,https://www.zillow.com/homedetails/5828-Lime-Ave-Long-Beach-CA-90805/21151423_zpid/
+204,6296 E Marina View Dr # 329,"$219,500","2 bds 2 ba 1,344 sqft",90803,33.767611,-118.108458,2103703409,https://www.zillow.com/homedetails/6296-E-Marina-View-Dr-329-Long-Beach-CA-90803/2103703409_zpid/
+205,8316 Marina Pacifica Dr N,"$829,000","3 bds 2 ba 1,777 sqft",90803,33.759619,-118.116591,21214848,https://www.zillow.com/homedetails/8316-Marina-Pacifica-Dr-N-Long-Beach-CA-90803/21214848_zpid/
+206,17 61st Pl,"$1,850,000","4 bds 4 ba 2,699 sqft",90803,33.74865,-118.123733,21217364,https://www.zillow.com/homedetails/17-61st-Pl-Long-Beach-CA-90803/21217364_zpid/
+207,5585 E Pacific Coast Hwy UNIT 311,"$365,000",2 bds 2 ba 913 sqft,90804,33.776449,-118.123396,21213578,https://www.zillow.com/homedetails/5585-E-Pacific-Coast-Hwy-UNIT-311-Long-Beach-CA-90804/21213578_zpid/
+209,746 N Virginia Ct,"$320,000",1 bd1 ba 640 sqft,90813,33.77622,-118.196937,21236119,https://www.zillow.com/homedetails/746-N-Virginia-Ct-Long-Beach-CA-90813/21236119_zpid/
+210,6436 E Fairbrook St,$--,"5 bds 2 ba 1,747 sqft",90815,33.791309,-118.106536,21206827,https://www.zillow.com/homedetails/6436-E-Fairbrook-St-Long-Beach-CA-90815/21206827_zpid/
+211,5364 Cedar Ave,"$460,000","3 bds 2 ba 1,158 sqft",90805,33.853713,-118.193483,21155712,https://www.zillow.com/homedetails/5364-Cedar-Ave-Long-Beach-CA-90805/21155712_zpid/
+213,62 62nd Pl,"$1,599,000","3 bds 4 ba 2,196 sqft",90803,33.748958,-118.122203,21217491,https://www.zillow.com/homedetails/62-62nd-Pl-Long-Beach-CA-90803/21217491_zpid/
+214,110 Belmont Ave,"$1,069,000","3 bds 2 ba 2,048 sqft",90803,33.761405,-118.144513,21224309,https://www.zillow.com/homedetails/110-Belmont-Ave-Long-Beach-CA-90803/21224309_zpid/
+215,775 Havana Ave,"$1,200,000","3 bds 2 ba 1,883 sqft",90804,33.77671,-118.126633,21214140,https://www.zillow.com/homedetails/775-Havana-Ave-Long-Beach-CA-90804/21214140_zpid/
+216,121 Belmont Ave,"$1,795,000","4 bds 3 ba 2,808 sqft",90803,33.76177,-118.145121,21224219,https://www.zillow.com/homedetails/121-Belmont-Ave-Long-Beach-CA-90803/21224219_zpid/
+217,5729 Avenida Estoril Cir,"$1,060,000","3 bds 3 ba 2,487 sqft",90814,33.769486,-118.119362,21218612,https://www.zillow.com/homedetails/5729-Avenida-Estoril-Cir-Long-Beach-CA-90814/21218612_zpid/
+218,6086 Lido Ln,"$4,595,000","4 bds 4 ba 3,970 sqft",90803,33.752036,-118.115216,21216260,https://www.zillow.com/homedetails/6086-Lido-Ln-Long-Beach-CA-90803/21216260_zpid/
+219,1430 E 17th St,"$929,900","9 bds 6 ba 3,561 sqft",90813,33.787777,-118.173484,21234769,https://www.zillow.com/homedetails/1430-E-17th-St-Long-Beach-CA-90813/21234769_zpid/
+220,44 Rivo Alto Canal,"$2,249,000","4 bds 3 ba 2,271 sqft",90803,33.755063,-118.125228,21216841,https://www.zillow.com/homedetails/44-Rivo-Alto-Canal-Long-Beach-CA-90803/21216841_zpid/
+221,1 62nd Pl UNIT 303,"$684,000","2 bds 2 ba 1,207 sqft",90803,33.748162,-118.123284,21217552,https://www.zillow.com/homedetails/1-62nd-Pl-UNIT-303-Long-Beach-CA-90803/21217552_zpid/
+222,387 Manila Ave,"$1,099,000","3 bds 3 ba 1,692 sqft",90814,33.771258,-118.121477,21218197,https://www.zillow.com/homedetails/387-Manila-Ave-Long-Beach-CA-90814/21218197_zpid/
+223,388 E Ocean Blvd UNIT 1211,"$388,000",1 bd1 ba 680 sqft,90802,33.766227,-118.18756,68994463,https://www.zillow.com/homedetails/388-E-Ocean-Blvd-UNIT-1211-Long-Beach-CA-90802/68994463_zpid/
+224,3833 E 2nd St UNIT 105,"$469,999","1 bd2 ba 1,008 sqft",90803,33.7627,-118.147274,21224188,https://www.zillow.com/homedetails/3833-E-2nd-St-UNIT-105-Long-Beach-CA-90803/21224188_zpid/
+225,100 Atlantic Ave APT 601,"$405,900",2 bds 1 ba 820 sqft,90802,33.768401,-118.184614,111372329,https://www.zillow.com/homedetails/100-Atlantic-Ave-APT-601-Long-Beach-CA-90802/111372329_zpid/
+226,1000 E Ocean Blvd UNIT 715,"$998,800","3 bds 2 ba 1,952 sqft",90802,33.765721,-118.180985,63093005,https://www.zillow.com/homedetails/1000-E-Ocean-Blvd-UNIT-715-Long-Beach-CA-90802/63093005_zpid/
+227,215 Granada Ave,"$959,000","2 bds 2 ba 1,145 sqft",90803,33.761607,-118.135603,21220431,https://www.zillow.com/homedetails/215-Granada-Ave-Long-Beach-CA-90803/21220431_zpid/
+228,6507 E Seaside Walk,"$3,495,000","3 bds 4 ba 3,356 sqft",90803,33.746962,-118.121258,21217561,https://www.zillow.com/homedetails/6507-E-Seaside-Walk-Long-Beach-CA-90803/21217561_zpid/
+229,215 Rivo Alto Canal,"$3,975,000","4 bds 6 ba 4,800 sqft",90803,33.752623,-118.122934,21216013,https://www.zillow.com/homedetails/215-Rivo-Alto-Canal-Long-Beach-CA-90803/21216013_zpid/
+230,5356 Olive Ave,"$490,051","3 bds 2 ba 1,074 sqft",90805,33.853496,-118.182843,21155593,https://www.zillow.com/homedetails/5356-Olive-Ave-Long-Beach-CA-90805/21155593_zpid/
+231,2981 Eucalyptus Ave,$--,"4 bds 3 ba 2,478 sqft",90806,33.811357,-118.197278,21194911,https://www.zillow.com/homedetails/2981-Eucalyptus-Ave-Long-Beach-CA-90806/21194911_zpid/
+232,7105 Marina Pacifica Dr S,"$474,900",1 bd1 ba 926 sqft,90803,33.759631,-118.116923,21214928,https://www.zillow.com/homedetails/7105-Marina-Pacifica-Dr-S-Long-Beach-CA-90803/21214928_zpid/
+233,3811 E Livingston Dr APT 102,"$749,900","3 bds 3 ba 1,327 sqft",90803,33.760822,-118.147733,2120744950,https://www.zillow.com/homedetails/3811-E-Livingston-Dr-APT-102-Long-Beach-CA-90803/2120744950_zpid/
+234,835 Locust Ave UNIT 612,"$689,000","2 bds 1 ba 1,702 sqft",90813,33.777225,-118.191454,65252401,https://www.zillow.com/homedetails/835-Locust-Ave-UNIT-612-Long-Beach-CA-90813/65252401_zpid/
+235,335 Cedar Ave UNIT 409,"$375,000",2 bds 2 ba 869 sqft,90802,33.771325,-118.195433,21240062,https://www.zillow.com/homedetails/335-Cedar-Ave-UNIT-409-Long-Beach-CA-90802/21240062_zpid/
+236,4167 N Greenbrier Rd,"$1,099,900","4 bds 3 ba 2,331 sqft",90808,33.834307,-118.133065,21185027,https://www.zillow.com/homedetails/4167-N-Greenbrier-Rd-Long-Beach-CA-90808/21185027_zpid/
+237,685 Mira Mar Ave,"$1,095,000","6 bds 4 ba 2,624 sqft",90814,33.775057,-118.147219,21222644,https://www.zillow.com/homedetails/685-Mira-Mar-Ave-Long-Beach-CA-90814/21222644_zpid/
+238,6150 E Bay Shore Walk APT 301,"$749,000",2 bds 2 ba 961 sqft,90803,33.749565,-118.122283,21217466,https://www.zillow.com/homedetails/6150-E-Bay-Shore-Walk-APT-301-Long-Beach-CA-90803/21217466_zpid/
+239,5535 Ackerfield Ave UNIT 26,"$369,000","3 bds 2 ba 1,069 sqft",90805,33.857776,-118.163668,21169641,https://www.zillow.com/homedetails/5535-Ackerfield-Ave-UNIT-26-Long-Beach-CA-90805/21169641_zpid/
+240,3835 Elm Ave,"Est. $2,259,208","6 bds 6 ba 6,200 sqft",90807,33.827962,-118.188331,21161167,https://www.zillow.com/homedetails/3835-Elm-Ave-Long-Beach-CA-90807/21161167_zpid/
+241,6620 E Ocean Blvd,"$1,799,000","5 bds 3 ba 3,400 sqft",90803,33.746924,-118.120175,21217667,https://www.zillow.com/homedetails/6620-E-Ocean-Blvd-Long-Beach-CA-90803/21217667_zpid/
+242,208 Nieto Ave,"$1,049,900","2 bds 2 ba 1,140 sqft",90803,33.760933,-118.134615,21220343,https://www.zillow.com/homedetails/208-Nieto-Ave-Long-Beach-CA-90803/21220343_zpid/
+243,2601 E Ocean Blvd UNIT 110,"$469,000",1 bd1 ba 672 sqft,90803,33.763364,-118.162022,21230501,https://www.zillow.com/homedetails/2601-E-Ocean-Blvd-UNIT-110-Long-Beach-CA-90803/21230501_zpid/
+244,2234 E Spaulding St,"$800,000","6 bds 3 ba 1,825 sqft",90804,33.785058,-118.164744,21227554,https://www.zillow.com/homedetails/2234-E-Spaulding-St-Long-Beach-CA-90804/21227554_zpid/
+245,3595 Santa Fe Ave #12,"$359,000","2 bds 2 ba 1,900 sqft",90810,33.820476,-118.218193,2093791862,https://www.zillow.com/homedetails/3595-Santa-Fe-Ave-12-Long-Beach-CA-90810/2093791862_zpid/
+246,1071 E Chanda Ct,"Est. $478,870","3 bds 2.5 ba 1,082 sqft",90813,33.776282,-118.178587,21233093,https://www.zillow.com/homedetails/1071-E-Chanda-Ct-Long-Beach-CA-90813/21233093_zpid/
+247,1090 Martin Luther King Jr Ave,"$668,000","3 bds 3 ba 1,584 sqft",90813,33.780481,-118.180489,21237155,https://www.zillow.com/homedetails/1090-Martin-Luther-King-Jr-Ave-Long-Beach-CA-90813/21237155_zpid/
+248,3537 Falcon Ave,"$687,038","4 bds 2 ba 1,636 sqft",90807,33.819931,-118.173061,2084221454,https://www.zillow.com/homedetails/3537-Falcon-Ave-Long-Beach-CA-90807/2084221454_zpid/
+249,4833 Blackthorne Ave,"$646,638","3 bds 2 ba 1,091 sqft",90808,33.845733,-118.140568,21184071,https://www.zillow.com/homedetails/4833-Blackthorne-Ave-Long-Beach-CA-90808/21184071_zpid/
+250,488 E Ocean Blvd UNIT 418,"$538,000",2 bds 2 ba 960 sqft,90802,33.766222,-118.187548,68994597,https://www.zillow.com/homedetails/488-E-Ocean-Blvd-UNIT-418-Long-Beach-CA-90802/68994597_zpid/
+251,6475 Atlantic Ave SPC 274,"$80,000",3 bds 1 ba -- sqft,90805,33.870934,-118.189174,2081571513,https://www.zillow.com/homedetails/6475-Atlantic-Ave-SPC-274-Long-Beach-CA-90805/2081571513_zpid/
+253,2100 Earl Ave,"$1,300,000","9 bds 8 ba 3,620 sqft",90806,33.79546,-118.191292,2084391607,https://www.zillow.com/homedetails/2100-Earl-Ave-Long-Beach-CA-90806/2084391607_zpid/
+254,1901 E Ocean Blvd UNIT 206,"$685,000","2 bds 3 ba 1,544 sqft",90802,33.764892,-118.168817,21232672,https://www.zillow.com/homedetails/1901-E-Ocean-Blvd-UNIT-206-Long-Beach-CA-90802/21232672_zpid/
+255,700 E Ocean Blvd UNIT 2602,"$645,995","2 bds 2 ba 1,080 sqft",90802,33.765741,-118.184199,21239048,https://www.zillow.com/homedetails/700-E-Ocean-Blvd-UNIT-2602-Long-Beach-CA-90802/21239048_zpid/
+256,3595 Santa Fe Ave SPC 85,"$509,000","4 bds 2 ba 1,600 sqft",90810,33.820476,-118.218193,2083544618,https://www.zillow.com/homedetails/3595-Santa-Fe-Ave-SPC-85-Long-Beach-CA-90810/2083544618_zpid/
+257,3738 Albury Ave,"$595,797",2 bds 1 ba 808 sqft,90808,33.826205,-118.116961,21186153,https://www.zillow.com/homedetails/3738-Albury-Ave-Long-Beach-CA-90808/21186153_zpid/
+258,1400 E Ocean Blvd UNIT 1305,"$1,345,000","3 bds 2 ba 1,259 sqft",90802,33.764597,-118.174818,58480115,https://www.zillow.com/homedetails/1400-E-Ocean-Blvd-UNIT-1305-Long-Beach-CA-90802/58480115_zpid/
+259,1701 E 1st St,"$1,380,000","6 bds 4 ba 2,744 sqft",90802,33.766265,-118.171427,21232701,https://www.zillow.com/homedetails/1701-E-1st-St-Long-Beach-CA-90802/21232701_zpid/
+260,6932 E El Roble St,"Est. $710,926","3 bds 2 ba 1,039 sqft",90815,33.787084,-118.098181,21211080,https://www.zillow.com/homedetails/6932-E-El-Roble-St-Long-Beach-CA-90815/21211080_zpid/
+261,3913 N Virginia Rd UNIT 107,"$498,000","2 bds 2 ba 1,070 sqft",90807,33.82951,-118.190336,21161336,https://www.zillow.com/homedetails/3913-N-Virginia-Rd-UNIT-107-Long-Beach-CA-90807/21161336_zpid/
+262,323 W 4th St APT 406,"$219,500",Studio1 ba 370 sqft,90802,33.772026,-118.195593,21240278,https://www.zillow.com/homedetails/323-W-4th-St-APT-406-Long-Beach-CA-90802/21240278_zpid/
+263,1140 E Ocean Blvd UNIT 233,"$489,000",1 bd1 ba 732 sqft,90802,33.765291,-118.178345,21231536,https://www.zillow.com/homedetails/1140-E-Ocean-Blvd-UNIT-233-Long-Beach-CA-90802/21231536_zpid/
+264,6237 Beachcomber Dr # 109,"$225,000","2 bds 2 ba 1,200 sqft",90803,33.767188,-118.111556,2109625773,https://www.zillow.com/homedetails/6237-Beachcomber-Dr-109-Long-Beach-CA-90803/2109625773_zpid/
+265,138 Rivo Alto Canal,"$1,995,000","2 bds 2 ba 1,738 sqft",90803,33.754615,-118.122014,21215928,https://www.zillow.com/homedetails/138-Rivo-Alto-Canal-Long-Beach-CA-90803/21215928_zpid/
+266,1480 Martin Luther King Jr Ave,"$469,990",2 bds 1 ba 960 sqft,90813,33.785538,-118.18047,21234535,https://www.zillow.com/homedetails/1480-Martin-Luther-King-Jr-Ave-Long-Beach-CA-90813/21234535_zpid/
+267,7101 Eastondale Ave,"$585,000","5 bds 3 ba 1,875 sqft",90805,33.883773,-118.185086,21142026,https://www.zillow.com/homedetails/7101-Eastondale-Ave-Long-Beach-CA-90805/21142026_zpid/
+268,21 7th Pl APT 408,"$725,000","2 bds 2 ba 1,355 sqft",90802,33.764868,-118.176359,21231725,https://www.zillow.com/homedetails/21-7th-Pl-APT-408-Long-Beach-CA-90802/21231725_zpid/
+269,4553 N Deal Dr,"Est. $520,807","3 bds 1 ba 1,133 sqft",90807,33.840544,-118.190701,21157734,https://www.zillow.com/homedetails/4553-N-Deal-Dr-Long-Beach-CA-90807/21157734_zpid/
+270,4113 E 10th St APT 3,"Est. $349,546",2 bds 2 ba 740 sqft,90804,33.779192,-118.144342,82869916,https://www.zillow.com/homedetails/4113-E-10th-St-APT-3-Long-Beach-CA-90804/82869916_zpid/
+271,2828 Ladoga Ave,$--,"2 bds 1 ba 1,150 sqft",90815,33.807775,-118.103323,21208459,https://www.zillow.com/homedetails/2828-Ladoga-Ave-Long-Beach-CA-90815/21208459_zpid/
+272,2322 Roswell Ave,"$819,999","3 bds 3 ba 2,057 sqft",90815,33.800146,-118.143073,21199853,https://www.zillow.com/homedetails/2322-Roswell-Ave-Long-Beach-CA-90815/21199853_zpid/
+273,835 Locust Ave UNIT 410,"$554,000",1 bd1 ba 989 sqft,90813,33.77727,-118.191448,65252368,https://www.zillow.com/homedetails/835-Locust-Ave-UNIT-410-Long-Beach-CA-90813/65252368_zpid/
+274,6216 E Emerald Cove Dr # 47,"$189,000","2 bds 2 ba 1,120 sqft",90803,33.766765,-118.113844,2111771103,https://www.zillow.com/homedetails/6216-E-Emerald-Cove-Dr-47-Long-Beach-CA-90803/2111771103_zpid/
+275,436 N Bellflower Blvd UNIT 204,"$375,000",1 bd1 ba 693 sqft,90814,33.771607,-118.120013,21218714,https://www.zillow.com/homedetails/436-N-Bellflower-Blvd-UNIT-204-Long-Beach-CA-90814/21218714_zpid/
+276,2910 De Forest Ave,"$649,999","3 bds 2 ba 1,473 sqft",90806,33.81009,-118.204056,21191739,https://www.zillow.com/homedetails/2910-De-Forest-Ave-Long-Beach-CA-90806/21191739_zpid/
+277,1052 E Andrews Dr,"Est. $1,061,771","3 bds 3 ba 3,341 sqft",90807,33.83617,-118.179111,21158563,https://www.zillow.com/homedetails/1052-E-Andrews-Dr-Long-Beach-CA-90807/21158563_zpid/
+278,800 E Ocean Blvd UNIT 709,"$460,000",1 bd1 ba 872 sqft,90802,33.765783,-118.182674,21231348,https://www.zillow.com/homedetails/800-E-Ocean-Blvd-UNIT-709-Long-Beach-CA-90802/21231348_zpid/
+279,6300 Riviera Cir,"$725,000","3 bds 2 ba 1,715 sqft",90815,33.775493,-118.110392,21212132,https://www.zillow.com/homedetails/6300-Riviera-Cir-Long-Beach-CA-90815/21212132_zpid/
+280,9 Rivo Alto Canal,"$2,549,000","3 bds 3 ba 2,184 sqft",90803,33.754086,-118.126396,21216782,https://www.zillow.com/homedetails/9-Rivo-Alto-Canal-Long-Beach-CA-90803/21216782_zpid/
+281,535 E 14th St,"$850,000","4 bds 2 ba 2,291 sqft",90813,33.784128,-118.185883,21235402,https://www.zillow.com/homedetails/535-E-14th-St-Long-Beach-CA-90813/21235402_zpid/
+282,6109 Lime Ave,"$575,000","2 bds 2 ba 1,504 sqft",90805,33.865785,-118.18429,21150711,https://www.zillow.com/homedetails/6109-Lime-Ave-Long-Beach-CA-90805/21150711_zpid/
+283,5640 Azure Way,"$1,399,000","3 bds 3 ba 1,600 sqft",90803,33.766715,-118.121863,21215268,https://www.zillow.com/homedetails/5640-Azure-Way-Long-Beach-CA-90803/21215268_zpid/
+284,3595 Santa Fe Ave # 100,"$484,000","4 bds 2 ba 1,687 sqft",90810,33.820369,-118.218058,2100909607,https://www.zillow.com/homedetails/3595-Santa-Fe-Ave-100-Long-Beach-CA-90810/2100909607_zpid/
+285,2400 E 5th St,"$1,300,000","5 bds 4 ba 3,112 sqft",90814,33.772346,-118.16312,21229709,https://www.zillow.com/homedetails/2400-E-5th-St-Long-Beach-CA-90814/21229709_zpid/
+286,2717 Radnor Ave,"Est. $669,350","3 bds 2 ba 1,276 sqft",90815,33.805708,-118.120102,21205769,https://www.zillow.com/homedetails/2717-Radnor-Ave-Long-Beach-CA-90815/21205769_zpid/
+287,6475 Atlantic Ave SPC 344,"$80,000",4 bds 1 ba -- sqft,90805,33.870934,-118.189174,2081571514,https://www.zillow.com/homedetails/6475-Atlantic-Ave-SPC-344-Long-Beach-CA-90805/2081571514_zpid/
+288,395 E 4th St UNIT 6,"$479,000","1 bd1 ba 1,020 sqft",90802,33.771905,-118.188104,72655092,https://www.zillow.com/homedetails/395-E-4th-St-UNIT-6-Long-Beach-CA-90802/72655092_zpid/
+289,1310 E Ocean Blvd UNIT 705,"$685,000",1 bd1 ba 990 sqft,90802,33.76493,-118.175569,21231821,https://www.zillow.com/homedetails/1310-E-Ocean-Blvd-UNIT-705-Long-Beach-CA-90802/21231821_zpid/
+290,5585 E Pacific Coast Hwy UNIT 218,"$285,000",1 bd1 ba 597 sqft,90804,33.776449,-118.123396,21213518,https://www.zillow.com/homedetails/5585-E-Pacific-Coast-Hwy-UNIT-218-Long-Beach-CA-90804/21213518_zpid/
+291,488 E Ocean Blvd UNIT 610,"$610,000",2 bds 2 ba 990 sqft,90802,33.766089,-118.187161,68994624,https://www.zillow.com/homedetails/488-E-Ocean-Blvd-UNIT-610-Long-Beach-CA-90802/68994624_zpid/
+292,3939 E Allin St UNIT 205,"$425,900",1 bd1 ba 740 sqft,90803,33.759338,-118.147488,21223827,https://www.zillow.com/homedetails/3939-E-Allin-St-UNIT-205-Long-Beach-CA-90803/21223827_zpid/
+293,3939 Walnut Ave,"$829,451","2 bds 3 ba 1,912 sqft",90807,33.83019,-118.172351,21159909,https://www.zillow.com/homedetails/3939-Walnut-Ave-Long-Beach-CA-90807/21159909_zpid/
+294,2211 Conquista Ave,$--,"3 bds 1 ba 1,055 sqft",90815,33.7963,-118.109448,21205349,https://www.zillow.com/homedetails/2211-Conquista-Ave-Long-Beach-CA-90815/21205349_zpid/
+295,6257 E Emerald Cove Dr,"$129,900","2 bds 2 ba 1,200 sqft",90803,33.76751,-118.111112,2082529047,https://www.zillow.com/homedetails/6257-E-Emerald-Cove-Dr-Long-Beach-CA-90803/2082529047_zpid/
+296,3295 Adriatic Ave,"$825,000","7 bds 5 ba 3,171 sqft",90810,33.816943,-118.214692,21246719,https://www.zillow.com/homedetails/3295-Adriatic-Ave-Long-Beach-CA-90810/21246719_zpid/
+297,835 Locust Ave UNIT 111,"$480,000",1 bd1 ba 791 sqft,90813,33.777225,-118.191454,65252328,https://www.zillow.com/homedetails/835-Locust-Ave-UNIT-111-Long-Beach-CA-90813/65252328_zpid/
+298,6665 Long Beach Blvd SPC B19,"$60,000",2 bds 1 ba 672 sqft,90805,33.875275,-118.204805,2119153234,https://www.zillow.com/homedetails/6665-Long-Beach-Blvd-SPC-B19-Long-Beach-CA-90805/2119153234_zpid/
+299,6475 Atlantic Ave SPC 715,"$69,000",2 bds 1 ba 800 sqft,90805,33.870934,-118.189174,2081667775,https://www.zillow.com/homedetails/6475-Atlantic-Ave-SPC-715-Long-Beach-CA-90805/2081667775_zpid/
+300,42 62nd Pl,"$1,250,000","4 bds 3 ba 2,980 sqft",90803,33.748665,-118.12242,136177489,https://www.zillow.com/homedetails/42-62nd-Pl-Long-Beach-CA-90803/136177489_zpid/
+301,646 Coronado Ave APT B,"$597,600","3 bds 2 ba 1,200 sqft",90814,33.774422,-118.153171,21226294,https://www.zillow.com/homedetails/646-Coronado-Ave-APT-B-Long-Beach-CA-90814/21226294_zpid/
+302,300 Manila Ave,"$1,209,000","3 bds 4 ba 2,948 sqft",90814,33.768213,-118.121323,60325333,https://www.zillow.com/homedetails/300-Manila-Ave-Long-Beach-CA-90814/60325333_zpid/
+303,2331 Snowden Ave,"$599,000","2 bds 2 ba 1,260 sqft",90815,33.800401,-118.11181,21206282,https://www.zillow.com/homedetails/2331-Snowden-Ave-Long-Beach-CA-90815/21206282_zpid/
+304,1487 Henderson Ave,"$1,025,000","10 bds 4 ba 3,520 sqft",90813,33.785947,-118.197467,21235566,https://www.zillow.com/homedetails/1487-Henderson-Ave-Long-Beach-CA-90813/21235566_zpid/
+305,380 Wisconsin Ave,"$875,000","3 bds 2 ba 1,739 sqft",90814,33.770865,-118.16135,21229641,https://www.zillow.com/homedetails/380-Wisconsin-Ave-Long-Beach-CA-90814/21229641_zpid/
+306,455 E Ocean Blvd APT 605,"$310,000",1 bd1 ba 421 sqft,90802,33.766991,-118.186661,21241336,https://www.zillow.com/homedetails/455-E-Ocean-Blvd-APT-605-Long-Beach-CA-90802/21241336_zpid/
+307,18 E 56th St,"$1,075,000","13 bds 5 ba 2,342 sqft",90805,33.857332,-118.197074,136109902,https://www.zillow.com/homedetails/18-E-56th-St-Long-Beach-CA-90805/136109902_zpid/
+308,3707 Country Club Dr UNIT 3,"$428,000",2 bds 2 ba 956 sqft,90807,33.824208,-118.197766,21162343,https://www.zillow.com/homedetails/3707-Country-Club-Dr-UNIT-3-Long-Beach-CA-90807/21162343_zpid/
+309,5272 Pine Ave,"$385,000",1 bd1 ba 607 sqft,90805,33.852152,-118.191574,21155847,https://www.zillow.com/homedetails/5272-Pine-Ave-Long-Beach-CA-90805/21155847_zpid/
+310,1750 E Ocean Blvd UNIT 1605,"$920,000","2 bds 2 ba 1,116 sqft",90802,33.764354,-118.171144,21232577,https://www.zillow.com/homedetails/1750-E-Ocean-Blvd-UNIT-1605-Long-Beach-CA-90802/21232577_zpid/
+311,850 E Ocean Blvd UNIT 1501,"$660,000","1 bd1 ba 1,013 sqft",90802,33.765635,-118.18208,21232957,https://www.zillow.com/homedetails/850-E-Ocean-Blvd-UNIT-1501-Long-Beach-CA-90802/21232957_zpid/
+312,6523 E Monlaco Rd,$--,"4 bds 3 ba 2,056 sqft",90808,33.822462,-118.105161,21137203,https://www.zillow.com/homedetails/6523-E-Monlaco-Rd-Long-Beach-CA-90808/21137203_zpid/
+313,1521 Locust Ave APT 14,"$359,000","2 bds 2 ba 1,075 sqft",90813,33.785836,-118.191452,21235137,https://www.zillow.com/homedetails/1521-Locust-Ave-APT-14-Long-Beach-CA-90813/21235137_zpid/
+314,512 Almond Ave,"$799,000","4 bds 2 ba 1,490 sqft",90802,33.773756,-118.174394,21233456,https://www.zillow.com/homedetails/512-Almond-Ave-Long-Beach-CA-90802/21233456_zpid/
+315,8018 Dorado Cir,"$929,990","4 bds 4 ba 2,465 sqft",90808,33.822741,-118.073339,2085713901,https://www.zillow.com/homedetails/8018-Dorado-Cir-Long-Beach-CA-90808/2085713901_zpid/
+316,5571 E Monlaco Rd,"Est. $629,002","2 bds 1 ba 1,204 sqft",90808,33.822454,-118.122583,21188212,https://www.zillow.com/homedetails/5571-E-Monlaco-Rd-Long-Beach-CA-90808/21188212_zpid/
+317,1993 Lemon Ave,"Est. $388,223",2 bds 1 ba 660 sqft,90806,33.793016,-118.178579,21197004,https://www.zillow.com/homedetails/1993-Lemon-Ave-Long-Beach-CA-90806/21197004_zpid/
+318,2481 Terraine Ave,"$1,100,000","5 bds 5 ba 3,058 sqft",90815,33.801779,-118.128062,21202624,https://www.zillow.com/homedetails/2481-Terraine-Ave-Long-Beach-CA-90815/21202624_zpid/
+319,40 Belmont Ave,"$1,850,000","1 bd2 ba 2,378 sqft",90803,33.760044,-118.144755,2099010690,https://www.zillow.com/homedetails/40-Belmont-Ave-Long-Beach-CA-90803/2099010690_zpid/
+320,4920 Brook Ave,"$50,000",2 bds 1 ba 400 sqft,90805,33.844375,-118.200952,136698575,https://www.zillow.com/homedetails/4920-Brook-Ave-Long-Beach-CA-90805/136698575_zpid/
+321,1 3rd Pl UNIT 805,"$799,000","2 bds 2 ba 1,251 sqft",90802,33.7655,-118.179956,21231463,https://www.zillow.com/homedetails/1-3rd-Pl-UNIT-805-Long-Beach-CA-90802/21231463_zpid/
+322,1140 E Ocean Blvd UNIT 334,"$519,000",1 bd1 ba 732 sqft,90802,33.765291,-118.178345,21231571,https://www.zillow.com/homedetails/1140-E-Ocean-Blvd-UNIT-334-Long-Beach-CA-90802/21231571_zpid/
+323,3451 E Janice St,"Est. $589,340","4 bds 2 ba 1,200 sqft",90805,33.867396,-118.152583,21149732,https://www.zillow.com/homedetails/3451-E-Janice-St-Long-Beach-CA-90805/21149732_zpid/
+324,2125 Pine Ave,"$546,999","3 bds 1 ba 1,339 sqft",90806,33.795842,-118.19266,21194860,https://www.zillow.com/homedetails/2125-Pine-Ave-Long-Beach-CA-90806/21194860_zpid/
+325,388 E Ocean Blvd UNIT 410,"$599,000",2 bds 2 ba 990 sqft,90802,33.766227,-118.18756,68994365,https://www.zillow.com/homedetails/388-E-Ocean-Blvd-UNIT-410-Long-Beach-CA-90802/68994365_zpid/
+326,1802 Elmfield Ave,"Est. $1,019,642","6 bds 3 ba 2,703 sqft",90815,33.788606,-118.12928,21203545,https://www.zillow.com/homedetails/1802-Elmfield-Ave-Long-Beach-CA-90815/21203545_zpid/
+327,326 Hermosa Ave APT 2,"$339,000",1 bd1 ba 680 sqft,90802,33.770185,-118.168975,21238485,https://www.zillow.com/homedetails/326-Hermosa-Ave-APT-2-Long-Beach-CA-90802/21238485_zpid/
+328,335 E Marker Ln,"$560,000","4 bds 3 ba 1,931 sqft",90805,33.875795,-118.195442,21242773,https://www.zillow.com/homedetails/335-E-Marker-Ln-Long-Beach-CA-90805/21242773_zpid/
+329,488 E Ocean Blvd UNIT P1,"$1,075,000","3 bds 4 ba 2,285 sqft",90802,33.766222,-118.187548,2082185875,https://www.zillow.com/homedetails/488-E-Ocean-Blvd-UNIT-P1-Long-Beach-CA-90802/2082185875_zpid/
+330,6550 E Espanita St,"Est. $890,111","3 bds 2 ba 2,309 sqft",90815,33.785026,-118.104143,21211953,https://www.zillow.com/homedetails/6550-E-Espanita-St-Long-Beach-CA-90815/21211953_zpid/
+331,335 Cedar Ave UNIT 307,"$265,000",1 bd1 ba 515 sqft,90802,33.771325,-118.195433,21240045,https://www.zillow.com/homedetails/335-Cedar-Ave-UNIT-307-Long-Beach-CA-90802/21240045_zpid/
+332,2256 San Anseline Ave,"$1,815,000","8 bds 6 ba 4,404 sqft",90815,33.797767,-118.121162,2084689064,https://www.zillow.com/homedetails/2256-San-Anseline-Ave-Long-Beach-CA-90815/2084689064_zpid/
+333,1043 E Terrace Dr,"Est. $632,603","5 bds 2 ba 1,705 sqft",90807,33.845068,-118.181115,21157987,https://www.zillow.com/homedetails/1043-E-Terrace-Dr-Long-Beach-CA-90807/21157987_zpid/
+334,784 Stanley Ave,"$1,250,000","6 bds 6 ba 3,156 sqft",90804,33.776886,-118.161912,21228712,https://www.zillow.com/homedetails/784-Stanley-Ave-Long-Beach-CA-90804/21228712_zpid/
+335,4821 E Ocean Blvd # AB,"Est. $1,291,304","4 bds 3 ba 2,524 sqft",90803,33.757208,-118.140136,21219383,https://www.zillow.com/homedetails/4821-E-Ocean-Blvd-AB-Long-Beach-CA-90803/21219383_zpid/
+336,3060 Linden Ave,"$1,150,000","3 bds 3 ba 2,584 sqft",90807,33.81289,-118.185794,21195621,https://www.zillow.com/homedetails/3060-Linden-Ave-Long-Beach-CA-90807/21195621_zpid/
+337,658 Coronado Ave,"$1,000,000","4 bds 3 ba 2,063 sqft",90814,33.774628,-118.153171,21226280,https://www.zillow.com/homedetails/658-Coronado-Ave-Long-Beach-CA-90814/21226280_zpid/
+338,2340 Gale Ave,"Est. $626,946","6 bds 3 ba 3,200 sqft",90810,33.799742,-118.207501,21285468,https://www.zillow.com/homedetails/2340-Gale-Ave-Long-Beach-CA-90810/21285468_zpid/
+339,380 Panama Ave,"Est. $1,994,945","5 bds 5 ba 5,050 sqft",90814,33.771028,-118.129411,21217971,https://www.zillow.com/homedetails/380-Panama-Ave-Long-Beach-CA-90814/21217971_zpid/
+340,2507 E 15th St UNIT 313,"$349,900",2 bds 2 ba 842 sqft,90804,33.786553,-118.161744,21227336,https://www.zillow.com/homedetails/2507-E-15th-St-UNIT-313-Long-Beach-CA-90804/21227336_zpid/
+341,3693 Palo Verde Ave,"$732,680","3 bds 3 ba 1,813 sqft",90808,33.824814,-118.108307,21187644,https://www.zillow.com/homedetails/3693-Palo-Verde-Ave-Long-Beach-CA-90808/21187644_zpid/
+342,1901 E Ocean Blvd UNIT 205,"$749,000","2 bds 3 ba 1,883 sqft",90802,33.764892,-118.168817,21232671,https://www.zillow.com/homedetails/1901-E-Ocean-Blvd-UNIT-205-Long-Beach-CA-90802/21232671_zpid/
+343,3939 E Allin St UNIT 108,"$429,000",1 bd1 ba 685 sqft,90803,33.759338,-118.147488,21223807,https://www.zillow.com/homedetails/3939-E-Allin-St-UNIT-108-Long-Beach-CA-90803/21223807_zpid/
+344,1 62nd Pl UNIT 302,"$995,000","2 bds 2 ba 1,221 sqft",90803,33.748162,-118.123284,21217551,https://www.zillow.com/homedetails/1-62nd-Pl-UNIT-302-Long-Beach-CA-90803/21217551_zpid/
+345,3751 Olive Ave,"Est. $656,783",2 bds 1 ba 981 sqft,90807,33.826063,-118.182984,21163168,https://www.zillow.com/homedetails/3751-Olive-Ave-Long-Beach-CA-90807/21163168_zpid/
+346,7101 Marina Pacifica Dr S,"$535,000",1 bd1 ba 828 sqft,90803,33.759619,-118.116591,21214926,https://www.zillow.com/homedetails/7101-Marina-Pacifica-Dr-S-Long-Beach-CA-90803/21214926_zpid/
+347,908 Walnut Ave,"$725,000","3 bds 1 ba 1,012 sqft",90813,33.778295,-118.171674,21233987,https://www.zillow.com/homedetails/908-Walnut-Ave-Long-Beach-CA-90813/21233987_zpid/
+348,100 Esperanza Ave # 4,"Est. $393,134",2 bds 1 ba 946 sqft,90802,33.766747,-118.175101,21232204,https://www.zillow.com/homedetails/100-Esperanza-Ave-4-Long-Beach-CA-90802/21232204_zpid/
+349,25 15th Pl UNIT 703,"$780,000","3 bds 2 ba 1,310 sqft",90802,33.764081,-118.169133,21232610,https://www.zillow.com/homedetails/25-15th-Pl-UNIT-703-Long-Beach-CA-90802/21232610_zpid/
+350,6245 E Emerald Cove Dr,"$179,000","2 bds 2 ba 1,440 sqft",90803,33.767731,-118.112022,2084106991,https://www.zillow.com/homedetails/6245-E-Emerald-Cove-Dr-Long-Beach-CA-90803/2084106991_zpid/
+351,3595 Santa Fe Ave # 101,"$524,500","3 bds 2 ba 1,600 sqft",90810,33.82047,-118.218685,2082267576,https://www.zillow.com/homedetails/3595-Santa-Fe-Ave-101-Long-Beach-CA-90810/2082267576_zpid/
+352,343 Orizaba Ave UNIT C,"Est. $425,665",2 bds 2 ba 901 sqft,90814,33.769532,-118.15706,21225559,https://www.zillow.com/homedetails/343-Orizaba-Ave-UNIT-C-Long-Beach-CA-90814/21225559_zpid/
+353,342 Salta Verde Point,"$2,075,888","3 bds 3 ba 2,560 sqft",90803,33.763181,-118.119843,21215304,https://www.zillow.com/homedetails/342-Salta-Verde-Point-Long-Beach-CA-90803/21215304_zpid/
+354,784 Redondo Ave,$--,"4 bds 3 ba 3,808 sqft",90804,33.776874,-118.152069,82868843,https://www.zillow.com/homedetails/784-Redondo-Ave-Long-Beach-CA-90804/82868843_zpid/
+355,1415 E Ocean Blvd APT 202,"$799,000","2 bds 2 ba 1,648 sqft",90802,33.765606,-118.174252,21232337,https://www.zillow.com/homedetails/1415-E-Ocean-Blvd-APT-202-Long-Beach-CA-90802/21232337_zpid/
+356,1816 Montair Ave,"Est. $777,413","3 bds 2 ba 1,641 sqft",90815,33.788913,-118.125535,21203726,https://www.zillow.com/homedetails/1816-Montair-Ave-Long-Beach-CA-90815/21203726_zpid/
+357,1415 E 4th St APT 14,"$379,500",1 bd1 ba 731 sqft,90802,33.771999,-118.17384,21233452,https://www.zillow.com/homedetails/1415-E-4th-St-APT-14-Long-Beach-CA-90802/21233452_zpid/
+358,2838 Albury Ave,"Est. $662,987","3 bds 2 ba 1,300 sqft",90815,33.80757,-118.117307,21205535,https://www.zillow.com/homedetails/2838-Albury-Ave-Long-Beach-CA-90815/21205535_zpid/
+359,3115 Shipway Ave,"Est. $927,376","4 bds 2 ba 1,383 sqft",90808,33.81259,-118.094139,21140498,https://www.zillow.com/homedetails/3115-Shipway-Ave-Long-Beach-CA-90808/21140498_zpid/
+360,1444 E Appleton St,"Est. $698,780","2 bds 1 ba 1,104 sqft",90802,33.768409,-118.173393,21238132,https://www.zillow.com/homedetails/1444-E-Appleton-St-Long-Beach-CA-90802/21238132_zpid/
+361,6226 E Sea Breeze Dr # 80,"$63,000",2 bds 1 ba 640 sqft,90803,33.768262,-118.112554,2082462734,https://www.zillow.com/homedetails/6226-E-Sea-Breeze-Dr-80-Long-Beach-CA-90803/2082462734_zpid/
+362,6112 Corsica Cir,"$2,500,000","3 bds 3 ba 2,778 sqft",90803,33.765462,-118.120715,21214442,https://www.zillow.com/homedetails/6112-Corsica-Cir-Long-Beach-CA-90803/21214442_zpid/
+363,3691 Cortner Ave,"Est. $611,893","3 bds 2 ba 1,608 sqft",90808,33.823875,-118.069016,21138882,https://www.zillow.com/homedetails/3691-Cortner-Ave-Long-Beach-CA-90808/21138882_zpid/
+364,6207 E Emerald Cove Dr # 54,"$248,900","2 bds 2 ba 1,447 sqft",90803,33.767188,-118.111556,2125529726,https://www.zillow.com/homedetails/6207-E-Emerald-Cove-Dr-54-Long-Beach-CA-90803/2125529726_zpid/
+365,419 E Smith St,$--,"3 bds 1 ba 1,020 sqft",90805,33.86604,-118.18827,21151516,https://www.zillow.com/homedetails/419-E-Smith-St-Long-Beach-CA-90805/21151516_zpid/
+366,3638 E Ocean Blvd,"$2,650,000","7 bds 5 ba 4,050 sqft",90803,33.7605,-118.15004,2102736504,https://www.zillow.com/homedetails/3638-E-Ocean-Blvd-Long-Beach-CA-90803/2102736504_zpid/
+367,388 E Ocean Blvd UNIT 402,"$435,900",1 bd1 ba 600 sqft,90802,33.766227,-118.18756,68969916,https://www.zillow.com/homedetails/388-E-Ocean-Blvd-UNIT-402-Long-Beach-CA-90802/68969916_zpid/
+368,6260 Beachcomber Dr # 289,"$194,000","3 bds 2 ba 1,080 sqft",90803,33.767345,-118.110056,2082105706,https://www.zillow.com/homedetails/6260-Beachcomber-Dr-289-Long-Beach-CA-90803/2082105706_zpid/
+369,300 E 4th St UNIT 407,"Est. $556,296","2 bds 3 ba 1,340 sqft",90802,33.771337,-118.188759,111919845,https://www.zillow.com/homedetails/300-E-4th-St-UNIT-407-Long-Beach-CA-90802/111919845_zpid/
+370,3910 Elm Ave,"$725,000","10,497 sqft lot",90807,33.829481,-118.187539,21160995,https://www.zillow.com/homedetails/3910-Elm-Ave-Long-Beach-CA-90807/21160995_zpid/
+371,411 W Seaside Way UNIT 903,"$898,000","2 bds 2 ba 1,410 sqft",90802,33.76616,-118.196863,82582603,https://www.zillow.com/homedetails/411-W-Seaside-Way-UNIT-903-Long-Beach-CA-90802/82582603_zpid/
+372,5530 E Parkcrest St,"Est. $573,504",2 bds 1 ba 936 sqft,90808,33.830026,-118.12399,21185960,https://www.zillow.com/homedetails/5530-E-Parkcrest-St-Long-Beach-CA-90808/21185960_zpid/
+373,25 15th Pl UNIT 705,"$699,990",2 bds 2 ba 990 sqft,90802,33.764081,-118.169133,21232612,https://www.zillow.com/homedetails/25-15th-Pl-UNIT-705-Long-Beach-CA-90802/21232612_zpid/
+375,437 Newport Ave,"$1,649,999","9 bds 7 ba 4,605 sqft",90814,33.772413,-118.151642,21224928,https://www.zillow.com/homedetails/437-Newport-Ave-Long-Beach-CA-90814/21224928_zpid/
+376,1174 E Ocean Blvd UNIT 18,"$849,500","2 bds 1 ba 1,018 sqft",90802,33.765187,-118.177538,21232982,https://www.zillow.com/homedetails/1174-E-Ocean-Blvd-UNIT-18-Long-Beach-CA-90802/21232982_zpid/
+377,525 E Seaside Way UNIT 405,"$610,000","2 bds 2 ba 1,218 sqft",90802,33.765908,-118.185676,21238698,https://www.zillow.com/homedetails/525-E-Seaside-Way-UNIT-405-Long-Beach-CA-90802/21238698_zpid/
+378,725 Coronado Ave UNIT 109,"Est. $376,811",2 bds 2 ba 838 sqft,90804,33.775863,-118.153812,21226196,https://www.zillow.com/homedetails/725-Coronado-Ave-UNIT-109-Long-Beach-CA-90804/21226196_zpid/
+379,525 E Seaside Way UNIT 1109,"$768,000","2 bds 2 ba 1,313 sqft",90802,33.765908,-118.185676,21238779,https://www.zillow.com/homedetails/525-E-Seaside-Way-UNIT-1109-Long-Beach-CA-90802/21238779_zpid/
+380,2412 Gale Ave,"Est. $395,599",3 bds 1 ba 781 sqft,90810,33.801203,-118.207657,21285085,https://www.zillow.com/homedetails/2412-Gale-Ave-Long-Beach-CA-90810/21285085_zpid/
+381,52 E Market St,"$345,000",1 bd1 ba 576 sqft,90805,33.854007,-118.194356,21155680,https://www.zillow.com/homedetails/52-E-Market-St-Long-Beach-CA-90805/21155680_zpid/
+382,6226 E Golden Sands Dr # 199,"$259,900","2 bds 2 ba 1,456 sqft",90803,33.766824,-118.112747,2082280899,https://www.zillow.com/homedetails/6226-E-Golden-Sands-Dr-199-Long-Beach-CA-90803/2082280899_zpid/
+383,22 W Mountain View St,"$929,900","7 bds 4 ba 2,600 sqft",90805,33.851377,-118.196643,21156636,https://www.zillow.com/homedetails/22-W-Mountain-View-St-Long-Beach-CA-90805/21156636_zpid/
+384,388 E Ocean Blvd UNIT P10,"$1,150,000","2 bds 3 ba 1,930 sqft",90802,33.766227,-118.18756,68994534,https://www.zillow.com/homedetails/388-E-Ocean-Blvd-UNIT-P10-Long-Beach-CA-90802/68994534_zpid/
+385,3921 Lees Ave,"Est. $672,846","3 bds 2 ba 1,269 sqft",90808,33.828208,-118.098312,21135571,https://www.zillow.com/homedetails/3921-Lees-Ave-Long-Beach-CA-90808/21135571_zpid/
+386,1431 E Hellman St,"$999,999","7 bds 5 ba 3,411 sqft",90813,33.776605,-118.17346,2089399538,https://www.zillow.com/homedetails/1431-E-Hellman-St-Long-Beach-CA-90813/2089399538_zpid/
+387,1750 E Ocean Blvd UNIT 407,"Est. $636,739",1 bd1 ba 853 sqft,90802,33.764354,-118.171144,21232443,https://www.zillow.com/homedetails/1750-E-Ocean-Blvd-UNIT-407-Long-Beach-CA-90802/21232443_zpid/
+388,1450 Peterson Ave,"Est. $629,613","4 bds 2 ba 1,475 sqft",90813,33.785404,-118.172762,21234936,https://www.zillow.com/homedetails/1450-Peterson-Ave-Long-Beach-CA-90813/21234936_zpid/
+389,700 E Ocean Blvd UNIT 2205,"$824,900","2 bds 2 ba 1,080 sqft",90802,33.765741,-118.184199,21239019,https://www.zillow.com/homedetails/700-E-Ocean-Blvd-UNIT-2205-Long-Beach-CA-90802/21239019_zpid/
+390,2729 Iroquois Ave,"Est. $620,138","3 bds 1 ba 1,343 sqft",90815,33.80616,-118.10637,21208295,https://www.zillow.com/homedetails/2729-Iroquois-Ave-Long-Beach-CA-90815/21208295_zpid/
+391,3623 E 11th St,"Est. $503,145",2 bds 1 ba 852 sqft,90804,33.780886,-118.149604,21222125,https://www.zillow.com/homedetails/3623-E-11th-St-Long-Beach-CA-90804/21222125_zpid/
+392,700 E Ocean Blvd UNIT 2308,"$849,000","3 bds 2 ba 1,260 sqft",90802,33.765741,-118.184199,21239030,https://www.zillow.com/homedetails/700-E-Ocean-Blvd-UNIT-2308-Long-Beach-CA-90802/21239030_zpid/
+393,2114 Nipomo Ave,"Est. $806,017","4 bds 3 ba 2,253 sqft",90815,33.794087,-118.101713,21208018,https://www.zillow.com/homedetails/2114-Nipomo-Ave-Long-Beach-CA-90815/21208018_zpid/
+394,1000 E Ocean Blvd UNIT 305,"$1,250,000","3 bds 2 ba 1,409 sqft",90802,33.765392,-118.181088,63093025,https://www.zillow.com/homedetails/1000-E-Ocean-Blvd-UNIT-305-Long-Beach-CA-90802/63093025_zpid/
+395,5723 E Mezzanine Way,"Est. $647,227","3 bds 1 ba 1,031 sqft",90808,33.815482,-118.120629,21190222,https://www.zillow.com/homedetails/5723-E-Mezzanine-Way-Long-Beach-CA-90808/21190222_zpid/
+396,178 W 67th Way,"$505,000",3 bds 1 ba 966 sqft,90805,33.876589,-118.205293,21243614,https://www.zillow.com/homedetails/178-W-67th-Way-Long-Beach-CA-90805/21243614_zpid/
+397,3438 Adriatic Ave,"$429,995",2 bds 1 ba 819 sqft,90810,33.819633,-118.21422,21246299,https://www.zillow.com/homedetails/3438-Adriatic-Ave-Long-Beach-CA-90810/21246299_zpid/
+398,1717 E Artesia Blvd,"$469,000","1 bd1 ba 1,258 sqft",90805,33.874916,-118.171468,21146380,https://www.zillow.com/homedetails/1717-E-Artesia-Blvd-Long-Beach-CA-90805/21146380_zpid/
+399,388 E Ocean Blvd UNIT 1601,"Est. $587,350",2 bds 2 ba 960 sqft,90802,33.766227,-118.18756,68994498,https://www.zillow.com/homedetails/388-E-Ocean-Blvd-UNIT-1601-Long-Beach-CA-90802/68994498_zpid/
+400,1358 Gundry Ave,"Est. $520,948","5 bds 2 ba 1,206 sqft",90813,33.784025,-118.173846,21234973,https://www.zillow.com/homedetails/1358-Gundry-Ave-Long-Beach-CA-90813/21234973_zpid/
+401,10 N Alboni Pl # 8,"Est. $437,801","2 bds 1 ba 1,209 sqft",90802,33.766563,-118.181576,21231210,https://www.zillow.com/homedetails/10-N-Alboni-Pl-8-Long-Beach-CA-90802/21231210_zpid/
+402,5431 E 29th St,"Est. $653,488","3 bds 2 ba 1,253 sqft",90815,33.809094,-118.127435,21201779,https://www.zillow.com/homedetails/5431-E-29th-St-Long-Beach-CA-90815/21201779_zpid/
+403,455 E Ocean Blvd APT 401,"$489,000",1 bd1 ba 981 sqft,90802,33.766991,-118.186661,21241302,https://www.zillow.com/homedetails/455-E-Ocean-Blvd-APT-401-Long-Beach-CA-90802/21241302_zpid/
+405,1117 N Nylic Ct,"$767,238","4 bds 4 ba 2,406 sqft",90813,33.780622,-118.200088,21235616,https://www.zillow.com/homedetails/1117-N-Nylic-Ct-Long-Beach-CA-90813/21235616_zpid/
+406,1171 E Claiborne Dr,"Est. $931,286","3 bds 2 ba 1,755 sqft",90807,33.839298,-118.177024,21158472,https://www.zillow.com/homedetails/1171-E-Claiborne-Dr-Long-Beach-CA-90807/21158472_zpid/
+407,3452 Elm Ave UNIT 203,"Est. $261,718",1 bd1 ba 717 sqft,90807,33.819907,-118.187532,21162661,https://www.zillow.com/homedetails/3452-Elm-Ave-UNIT-203-Long-Beach-CA-90807/21162661_zpid/
+408,1009 Gardenia Ave,"$795,000","4 bds 4 ba 2,460 sqft",90813,33.779261,-118.168845,21233861,https://www.zillow.com/homedetails/1009-Gardenia-Ave-Long-Beach-CA-90813/21233861_zpid/
+409,1404 E 1st St APT 8,"Est. $304,866",1 bd1 ba 657 sqft,90802,33.766069,-118.174318,21232351,https://www.zillow.com/homedetails/1404-E-1st-St-APT-8-Long-Beach-CA-90802/21232351_zpid/
+410,2049 Orange Ave,"$899,900","3 bds 2 ba 3,424 sqft",90806,33.794874,-118.176639,68978869,https://www.zillow.com/homedetails/2049-Orange-Ave-Long-Beach-CA-90806/68978869_zpid/
+411,3141 Chatwin Ave,"Est. $677,603","3 bds 2 ba 1,384 sqft",90808,33.813598,-118.123515,21190393,https://www.zillow.com/homedetails/3141-Chatwin-Ave-Long-Beach-CA-90808/21190393_zpid/
+412,6348 E Marita St,"Est. $780,032","3 bds 2 ba 1,676 sqft",90815,33.790577,-118.109082,21206748,https://www.zillow.com/homedetails/6348-E-Marita-St-Long-Beach-CA-90815/21206748_zpid/
+413,388 E Ocean Blvd UNIT 102,"$600,000",2 bds 2 ba 990 sqft,90802,33.766154,-118.18812,68994329,https://www.zillow.com/homedetails/388-E-Ocean-Blvd-UNIT-102-Long-Beach-CA-90802/68994329_zpid/
+414,2154 Pacific Ave,"$750,888","3 bds 3 ba 2,600 sqft",90806,33.79628,-118.193365,136153452,https://www.zillow.com/homedetails/2154-Pacific-Ave-Long-Beach-CA-90806/136153452_zpid/
+415,1505 Hile Ave,"Est. $416,589",1 bd1 ba 616 sqft,90804,33.786499,-118.159646,21227231,https://www.zillow.com/homedetails/1505-Hile-Ave-Long-Beach-CA-90804/21227231_zpid/
+416,2027 E Appleton St UNIT 11,"Est. $435,869",2 bds 1 ba 984 sqft,90803,33.76809,-118.166947,21229309,https://www.zillow.com/homedetails/2027-E-Appleton-St-UNIT-11-Long-Beach-CA-90803/21229309_zpid/
+417,3101 E 2nd St UNIT 1A,"Est. $532,767",2 bds 1 ba 980 sqft,90803,33.764334,-118.154958,21230086,https://www.zillow.com/homedetails/3101-E-2nd-St-UNIT-1A-Long-Beach-CA-90803/21230086_zpid/
+418,835 Locust Ave UNIT 323,"Est. $625,506","1 bd1 ba 1,697 sqft",90813,33.77727,-118.191448,65252364,https://www.zillow.com/homedetails/835-Locust-Ave-UNIT-323-Long-Beach-CA-90813/65252364_zpid/
+419,133 The Promenade N UNIT 404,"$575,000","1 bd2 ba 1,077 sqft",90802,33.768602,-118.191098,82750225,https://www.zillow.com/homedetails/133-The-Promenade-N-UNIT-404-Long-Beach-CA-90802/82750225_zpid/
+420,6273 E Emerald Cove Dr # 282,"$234,000","3 bds 2 ba 1,360 sqft",90803,33.767122,-118.110399,2102175524,https://www.zillow.com/homedetails/6273-E-Emerald-Cove-Dr-282-Long-Beach-CA-90803/2102175524_zpid/
+422,63 65th Pl,"$2,399,000","5 bds 6 ba 4,000 sqft",90803,33.748168,-118.120844,2089567894,https://www.zillow.com/homedetails/63-65th-Pl-Long-Beach-CA-90803/2089567894_zpid/
+423,8170 E Topia St,"Est. $640,346","3 bds 2 ba 1,462 sqft",90808,33.819792,-118.069585,21138983,https://www.zillow.com/homedetails/8170-E-Topia-St-Long-Beach-CA-90808/21138983_zpid/
+424,388 E Ocean Blvd UNIT 301,"$529,000",2 bds 2 ba 960 sqft,90802,33.766154,-118.18812,68994345,https://www.zillow.com/homedetails/388-E-Ocean-Blvd-UNIT-301-Long-Beach-CA-90802/68994345_zpid/
+425,850 E Ocean Blvd UNIT 503,"$899,000","2 bds 2 ba 1,377 sqft",90802,33.765635,-118.18208,21232826,https://www.zillow.com/homedetails/850-E-Ocean-Blvd-UNIT-503-Long-Beach-CA-90802/21232826_zpid/
+426,448 N Bellflower Blvd UNIT 103,"$359,000",1 bd1 ba 693 sqft,90814,33.771607,-118.120013,21218637,https://www.zillow.com/homedetails/448-N-Bellflower-Blvd-UNIT-103-Long-Beach-CA-90814/21218637_zpid/
+427,847 Junipero Ave,"Est. $682,839","4 bds 1 ba 1,743 sqft",90804,33.777993,-118.163614,21228548,https://www.zillow.com/homedetails/847-Junipero-Ave-Long-Beach-CA-90804/21228548_zpid/
+429,637 E 4th St UNIT A,"$639,000","1 bd2 ba 1,421 sqft",90802,33.772019,-118.18407,89145903,https://www.zillow.com/homedetails/637-E-4th-St-UNIT-A-Long-Beach-CA-90802/89145903_zpid/
+430,273 E Del Amo Blvd,"$510,000",2 bds 1 ba 700 sqft,90805,33.846874,-118.190158,21156385,https://www.zillow.com/homedetails/273-E-Del-Amo-Blvd-Long-Beach-CA-90805/21156385_zpid/
+431,6247 E Golden Sands Dr #184,"$209,900",2 bds 2 ba 900 sqft,90803,33.76724,-118.1115,2098445622,https://www.zillow.com/homedetails/6247-E-Golden-Sands-Dr-184-Long-Beach-CA-90803/2098445622_zpid/
+432,8024 Dorado Cir,"$939,990","4 bds 3 ba 2,527 sqft",90808,33.822626,-118.072929,2084012329,https://www.zillow.com/homedetails/8024-Dorado-Cir-Long-Beach-CA-90808/2084012329_zpid/
+433,4424 Gaviota Ave,"Est. $637,372","3 bds 2 ba 1,885 sqft",90807,33.837925,-118.169875,21159167,https://www.zillow.com/homedetails/4424-Gaviota-Ave-Long-Beach-CA-90807/21159167_zpid/
+434,1067 Stanley Ave,"Est. $559,775","3 bds 2 ba 1,298 sqft",90804,33.780219,-118.162526,21228396,https://www.zillow.com/homedetails/1067-Stanley-Ave-Long-Beach-CA-90804/21228396_zpid/
+435,5836 E Marita St,"Est. $756,853","3 bds 1 ba 1,600 sqft",90815,33.790788,-118.118466,21204076,https://www.zillow.com/homedetails/5836-E-Marita-St-Long-Beach-CA-90815/21204076_zpid/
+436,5585 E Pacific Coast Hwy UNIT 314,"$310,000",1 bd1 ba 597 sqft,90804,33.776449,-118.123396,21213589,https://www.zillow.com/homedetails/5585-E-Pacific-Coast-Hwy-UNIT-314-Long-Beach-CA-90804/21213589_zpid/
+437,3520 Kemble Ave,"Est. $643,036","3 bds 2 ba 1,120 sqft",90808,33.820485,-118.067676,21139040,https://www.zillow.com/homedetails/3520-Kemble-Ave-Long-Beach-CA-90808/21139040_zpid/
+438,6120 Marina Pacifica Dr S,"$439,500",Studio1 ba 787 sqft,90803,33.759624,-118.116603,21214922,https://www.zillow.com/homedetails/6120-Marina-Pacifica-Dr-S-Long-Beach-CA-90803/21214922_zpid/
+439,525 E Seaside Way UNIT 402,"Est. $391,456",1 bd1 ba 622 sqft,90802,33.765908,-118.185676,21238695,https://www.zillow.com/homedetails/525-E-Seaside-Way-UNIT-402-Long-Beach-CA-90802/21238695_zpid/
+440,3121 Long Beach Blvd,"$294,000","7,688 sqft lot",90807,33.814437,-118.1897,2088562922,https://www.zillow.com/homedetails/3121-Long-Beach-Blvd-Long-Beach-CA-90807/2088562922_zpid/
+441,3595 Santa Fe Ave # 51,"$514,500","3 bds 2 ba 1,600 sqft",90810,33.820369,-118.218058,2082907940,https://www.zillow.com/homedetails/3595-Santa-Fe-Ave-51-Long-Beach-CA-90810/2082907940_zpid/
+442,1521 Locust Ave APT 3,"Est. $360,753","2 bds 2 ba 1,064 sqft",90813,33.785836,-118.191452,21235126,https://www.zillow.com/homedetails/1521-Locust-Ave-APT-3-Long-Beach-CA-90813/21235126_zpid/
+443,6065 Gundry Ave,"Est. $445,530",2 bds 1 ba 915 sqft,90805,33.865399,-118.175572,21150047,https://www.zillow.com/homedetails/6065-Gundry-Ave-Long-Beach-CA-90805/21150047_zpid/
+444,6259 California Ave,"Est. $531,779","4 bds 2 ba 1,464 sqft",90805,33.868444,-118.181385,21147406,https://www.zillow.com/homedetails/6259-California-Ave-Long-Beach-CA-90805/21147406_zpid/
+445,1750 E Ocean Blvd UNIT 404,"$529,900",1 bd1 ba 632 sqft,90802,33.764354,-118.171144,21232440,https://www.zillow.com/homedetails/1750-E-Ocean-Blvd-UNIT-404-Long-Beach-CA-90802/21232440_zpid/
+446,1720 E 1st St APT 1,"$4,450,000","4 bds 3 ba 8,926 sqft",90802,33.765692,-118.171303,2091250328,https://www.zillow.com/homedetails/1720-E-1st-St-APT-1-Long-Beach-CA-90802/2091250328_zpid/
+447,488 E Ocean Blvd UNIT 1701,"$649,000",2 bds 2 ba 960 sqft,90802,33.766227,-118.18756,68994783,https://www.zillow.com/homedetails/488-E-Ocean-Blvd-UNIT-1701-Long-Beach-CA-90802/68994783_zpid/
+448,224 Rivo Alto Canal,"$4,000,000","5,619 sqft lot",90803,33.753041,-118.123398,2090157023,https://www.zillow.com/homedetails/224-Rivo-Alto-Canal-Long-Beach-CA-90803/2090157023_zpid/
+449,2121 Shipway Ave,"Est. $811,178","4 bds 2 ba 2,209 sqft",90815,33.794453,-118.093585,21209178,https://www.zillow.com/homedetails/2121-Shipway-Ave-Long-Beach-CA-90815/21209178_zpid/
+450,850 E Ocean Blvd APT 607,"$999,900","3 bds 3 ba 1,788 sqft",90802,33.765635,-118.18208,21232838,https://www.zillow.com/homedetails/850-E-Ocean-Blvd-APT-607-Long-Beach-CA-90802/21232838_zpid/
+451,5444 Olive Ave,"Est. $467,228","3 bds 2 ba 1,110 sqft",90805,33.855191,-118.182672,21153303,https://www.zillow.com/homedetails/5444-Olive-Ave-Long-Beach-CA-90805/21153303_zpid/
+452,228 E 68th St,"Est. $400,120","2 bds 1 ba 1,144 sqft",90805,33.877477,-118.199292,21242966,https://www.zillow.com/homedetails/228-E-68th-St-Long-Beach-CA-90805/21242966_zpid/
+453,1935 Golden Ave,"Est. $525,207","2 bds 2 ba 1,156 sqft",90806,33.792367,-118.202709,21192636,https://www.zillow.com/homedetails/1935-Golden-Ave-Long-Beach-CA-90806/21192636_zpid/
+454,3622 Pacific Ave,"Est. $1,010,947","6 bds 5 ba 3,243 sqft",90807,33.822977,-118.193714,21162241,https://www.zillow.com/homedetails/3622-Pacific-Ave-Long-Beach-CA-90807/21162241_zpid/
+455,1360 Orange Ave,"Est. $496,247",Studio-- ba 924 sqft,90813,33.783776,-118.176018,21234994,https://www.zillow.com/homedetails/1360-Orange-Ave-Long-Beach-CA-90813/21234994_zpid/
+456,4199 E Ransom St,"$1,349,000","3 bds 3 ba 4,560 sqft",90804,33.786939,-118.143628,21221915,https://www.zillow.com/homedetails/4199-E-Ransom-St-Long-Beach-CA-90804/21221915_zpid/
+458,8019 Dorado Cir,"$935,990","4 bds 3 ba 2,527 sqft",90808,33.823013,-118.073069,2086415048,https://www.zillow.com/homedetails/8019-Dorado-Cir-Long-Beach-CA-90808/2086415048_zpid/
+459,8034 Dorado Cir,"$897,990+","4 bds 4 ba 2,465 sqft",90808,33.82242,-118.072247,2081831398,https://www.zillow.com/homedetails/8034-Dorado-Cir-Long-Beach-CA-90808/2081831398_zpid/
+460,5865 E Mezzanine Way,"Est. $755,688","4 bds 2 ba 1,883 sqft",90808,33.815428,-118.116996,21190205,https://www.zillow.com/homedetails/5865-E-Mezzanine-Way-Long-Beach-CA-90808/21190205_zpid/
+461,1960 W Burnett St,"Est. $499,031","3 bds 2 ba 1,188 sqft",90810,33.800525,-118.218397,21285834,https://www.zillow.com/homedetails/1960-W-Burnett-St-Long-Beach-CA-90810/21285834_zpid/
+462,535 W 4th St APT 212,"Est. $260,336",1 bd1 ba 552 sqft,90802,33.772019,-118.199012,21239759,https://www.zillow.com/homedetails/535-W-4th-St-APT-212-Long-Beach-CA-90802/21239759_zpid/
+463,935 Elm Ave,"$989,000","4 bds 4 ba 3,344 sqft",90813,33.778511,-118.188035,21236790,https://www.zillow.com/homedetails/935-Elm-Ave-Long-Beach-CA-90813/21236790_zpid/
+464,6550 E Brittain St,"Est. $749,017","4 bds 2 ba 1,903 sqft",90808,33.82541,-118.104852,21136735,https://www.zillow.com/homedetails/6550-E-Brittain-St-Long-Beach-CA-90808/21136735_zpid/
+465,6841 E Septimo St,"Est. $854,077","3 bds 2 ba 1,907 sqft",90815,33.77559,-118.100138,21211640,https://www.zillow.com/homedetails/6841-E-Septimo-St-Long-Beach-CA-90815/21211640_zpid/
+466,5802 E Gossamer St,"Est. $842,250","4 bds 3 ba 2,548 sqft",90808,33.81936,-118.118758,21188539,https://www.zillow.com/homedetails/5802-E-Gossamer-St-Long-Beach-CA-90808/21188539_zpid/
+467,525 E Seaside Way UNIT 709,"$739,000","2 bds 2 ba 1,399 sqft",90802,33.765908,-118.185676,21238735,https://www.zillow.com/homedetails/525-E-Seaside-Way-UNIT-709-Long-Beach-CA-90802/21238735_zpid/
+468,3535 Falcon Ave,$--,2 bds 1 ba 850 sqft,90807,33.820994,-118.173377,21164436,https://www.zillow.com/homedetails/3535-Falcon-Ave-Long-Beach-CA-90807/21164436_zpid/
+469,3829 Hackett Ave,"Est. $853,941","5 bds 2 ba 2,510 sqft",90808,33.828278,-118.106959,21136443,https://www.zillow.com/homedetails/3829-Hackett-Ave-Long-Beach-CA-90808/21136443_zpid/
+470,1513 E Broadway,"$1,350,000","5 bds 5 ba 2,474 sqft",90802,33.768135,-118.172783,2082395315,https://www.zillow.com/homedetails/1513-E-Broadway-Long-Beach-CA-90802/2082395315_zpid/
+471,6425 E El Paseo St,"Est. $726,814","3 bds 2 ba 1,552 sqft",90815,33.794678,-118.10666,21206915,https://www.zillow.com/homedetails/6425-E-El-Paseo-St-Long-Beach-CA-90815/21206915_zpid/
+472,100 W 5th St UNIT 7E,"$649,000","1 bd1 ba 1,244 sqft",90802,33.772673,-118.192761,21240160,https://www.zillow.com/homedetails/100-W-5th-St-UNIT-7E-Long-Beach-CA-90802/21240160_zpid/
+473,327 Chestnut Ave APT 204,"Est. $395,063","2 bds 2 ba 1,010 sqft",90802,33.77119,-118.19684,21240344,https://www.zillow.com/homedetails/327-Chestnut-Ave-APT-204-Long-Beach-CA-90802/21240344_zpid/
+474,5585 E Pacific Coast Hwy UNIT 209,"$310,000",1 bd1 ba 597 sqft,90804,33.776449,-118.123396,21213510,https://www.zillow.com/homedetails/5585-E-Pacific-Coast-Hwy-UNIT-209-Long-Beach-CA-90804/21213510_zpid/
+475,3113 Atlantic Ave UNIT 31,"$436,178","2 bds 3 ba 1,233 sqft",90807,33.813822,-118.185621,21195595,https://www.zillow.com/homedetails/3113-Atlantic-Ave-UNIT-31-Long-Beach-CA-90807/21195595_zpid/
+476,6700 Gale Ave,"Est. $493,558","3 bds 2 ba 1,466 sqft",90805,33.876169,-118.205368,21243632,https://www.zillow.com/homedetails/6700-Gale-Ave-Long-Beach-CA-90805/21243632_zpid/
+477,205 E Bort St,"$432,444",2 bds 1 ba 816 sqft,90805,33.870776,-118.200198,21243793,https://www.zillow.com/homedetails/205-E-Bort-St-Long-Beach-CA-90805/21243793_zpid/
+478,1206 Gladys Ave,"$2,450,000","2 bds 2 ba 7,680 sqft",90804,33.781892,-118.157526,2081759670,https://www.zillow.com/homedetails/1206-Gladys-Ave-Long-Beach-CA-90804/2081759670_zpid/
+479,3400 Gale Ave,"Est. $508,361","4 bds 2 ba 1,345 sqft",90810,33.819037,-118.207489,21246004,https://www.zillow.com/homedetails/3400-Gale-Ave-Long-Beach-CA-90810/21246004_zpid/
+480,335 Cedar Ave UNIT 402,"$309,000",1 bd1 ba 617 sqft,90802,33.771325,-118.195433,21240055,https://www.zillow.com/homedetails/335-Cedar-Ave-UNIT-402-Long-Beach-CA-90802/21240055_zpid/
+481,2559 Cedar Ave,"Est. $782,688","4 bds 3 ba 2,449 sqft",90806,33.803679,-118.195121,21194412,https://www.zillow.com/homedetails/2559-Cedar-Ave-Long-Beach-CA-90806/21194412_zpid/
+482,315 W 3rd St UNIT 605,"$649,950","1 bd1 ba 1,284 sqft",90802,33.770816,-118.195434,21240426,https://www.zillow.com/homedetails/315-W-3rd-St-UNIT-605-Long-Beach-CA-90802/21240426_zpid/
+483,1372 Lewis Ave,"$849,900","5 bds 3 ba 1,904 sqft",90813,33.783963,-118.17977,21234440,https://www.zillow.com/homedetails/1372-Lewis-Ave-Long-Beach-CA-90813/21234440_zpid/
+484,5493 E 29th St,"Est. $692,934","3 bds 2 ba 1,438 sqft",90815,33.809085,-118.125731,21201751,https://www.zillow.com/homedetails/5493-E-29th-St-Long-Beach-CA-90815/21201751_zpid/
+485,27 66th Pl,"$1,775,000","3 bds 4 ba 2,463 sqft",90803,33.747121,-118.12083,21217567,https://www.zillow.com/homedetails/27-66th-Pl-Long-Beach-CA-90803/21217567_zpid/
+486,1215 Orizaba Ave,"$1,389,000","9 bds 9 ba 4,700 sqft",90804,33.782042,-118.157053,21226774,https://www.zillow.com/homedetails/1215-Orizaba-Ave-Long-Beach-CA-90804/21226774_zpid/
+487,1000 E Ocean Blvd UNIT 203,"$1,089,000","3 bds 2 ba 1,510 sqft",90802,33.765388,-118.181076,63093016,https://www.zillow.com/homedetails/1000-E-Ocean-Blvd-UNIT-203-Long-Beach-CA-90802/63093016_zpid/
+488,731 Junipero Ave,"Est. $630,136","2 bds 1 ba 1,162 sqft",90804,33.776017,-118.163562,21228762,https://www.zillow.com/homedetails/731-Junipero-Ave-Long-Beach-CA-90804/21228762_zpid/
+489,30 Belmont Ave,"$2,700,000","3 bds 2 ba 4,096 sqft",90803,33.759937,-118.144821,2098859370,https://www.zillow.com/homedetails/30-Belmont-Ave-Long-Beach-CA-90803/2098859370_zpid/
+490,1371 Granada Ave,"Est. $745,216","2 bds 1 ba 1,364 sqft",90804,33.783898,-118.13486,21201619,https://www.zillow.com/homedetails/1371-Granada-Ave-Long-Beach-CA-90804/21201619_zpid/
+491,3408 E 64th St,"Est. $531,119","4 bds 2 ba 1,551 sqft",90805,33.870836,-118.15325,21149578,https://www.zillow.com/homedetails/3408-E-64th-St-Long-Beach-CA-90805/21149578_zpid/
+492,1518 E 3rd St,"$7,495,000","3 bds 2 ba 16,428 sqft",90802,33.769294,-118.172457,2094411979,https://www.zillow.com/homedetails/1518-E-3rd-St-Long-Beach-CA-90802/2094411979_zpid/
+493,5313 Marina Pacifica Dr S,"$549,900",1 bd2 ba 980 sqft,90803,33.759624,-118.116603,2081556138,https://www.zillow.com/homedetails/5313-Marina-Pacifica-Dr-S-Long-Beach-CA-90803/2081556138_zpid/
+494,1439 Locust Ave,"Est. $435,163","3 bds 1 ba 1,344 sqft",90813,33.78462,-118.191453,21235152,https://www.zillow.com/homedetails/1439-Locust-Ave-Long-Beach-CA-90813/21235152_zpid/
+495,5961 E Walton St,"Est. $735,871","4 bds 2 ba 1,633 sqft",90815,33.803946,-118.115397,21205444,https://www.zillow.com/homedetails/5961-E-Walton-St-Long-Beach-CA-90815/21205444_zpid/
+496,3320 E 8th St,"$1,200,000","4 bds 4 ba 2,940 sqft",90804,33.776997,-118.152892,21226208,https://www.zillow.com/homedetails/3320-E-8th-St-Long-Beach-CA-90804/21226208_zpid/
+497,3595 Santa Fe Ave # 88,"$524,500","3 bds 2 ba 1,600 sqft",90810,33.820476,-118.218193,2082473604,https://www.zillow.com/homedetails/3595-Santa-Fe-Ave-88-Long-Beach-CA-90810/2082473604_zpid/
+498,8042 Dorado Cir,"$1,034,990+","4 bds 4 ba 2,901 sqft",90808,33.822673,-118.072143,2087737733,https://www.zillow.com/homedetails/8042-Dorado-Cir-Long-Beach-CA-90808/2087737733_zpid/
+499,100 Atlantic Ave APT 1115,"$299,000",Studio1 ba 490 sqft,90802,33.768401,-118.184614,111371666,https://www.zillow.com/homedetails/100-Atlantic-Ave-APT-1115-Long-Beach-CA-90802/111371666_zpid/
+500,349 E Smith St,"Est. $567,308","4 bds 2 ba 1,816 sqft",90805,33.866015,-118.190668,21151540,https://www.zillow.com/homedetails/349-E-Smith-St-Long-Beach-CA-90805/21151540_zpid/
+501,433 Pine Ave UNIT 406,"$604,900",1 bd1 ba 954 sqft,90802,33.772398,-118.192761,2083135448,https://www.zillow.com/homedetails/433-Pine-Ave-UNIT-406-Long-Beach-CA-90802/2083135448_zpid/
+502,850 E Ocean Blvd UNIT 405,"$895,000","2 bds 2 ba 1,399 sqft",90802,33.765635,-118.18208,21232809,https://www.zillow.com/homedetails/850-E-Ocean-Blvd-UNIT-405-Long-Beach-CA-90802/21232809_zpid/
+503,477 E Sunset St,$--,1 bd1 ba 500 sqft,90805,33.84941,-118.186694,21155180,https://www.zillow.com/homedetails/477-E-Sunset-St-Long-Beach-CA-90805/21155180_zpid/
+504,5104 Marina Pacifica Dr S,"$412,500",Studio1 ba 701 sqft,90803,33.759619,-118.116591,21214476,https://www.zillow.com/homedetails/5104-Marina-Pacifica-Dr-S-Long-Beach-CA-90803/21214476_zpid/
+505,1467 Obispo Ave APT 5,"Est. $257,878",1 bd1 ba 570 sqft,90804,33.785718,-118.154893,72652316,https://www.zillow.com/homedetails/1467-Obispo-Ave-APT-5-Long-Beach-CA-90804/72652316_zpid/
+506,486 Walnut Ave,"Est. $876,524","5 bds 3 ba 2,189 sqft",90802,33.77326,-118.171676,21233508,https://www.zillow.com/homedetails/486-Walnut-Ave-Long-Beach-CA-90802/21233508_zpid/
+507,1187 E 3rd St UNIT 211,"Est. $417,398","2 bds 2 ba 1,039 sqft",90802,33.770496,-118.176818,21237795,https://www.zillow.com/homedetails/1187-E-3rd-St-UNIT-211-Long-Beach-CA-90802/21237795_zpid/
+508,841 Gardenia Ave APT 305,"Est. $256,234",1 bd1 ba 540 sqft,90813,33.778008,-118.169037,79799561,https://www.zillow.com/homedetails/841-Gardenia-Ave-APT-305-Long-Beach-CA-90813/79799561_zpid/
+509,57 W Arbor St,"Est. $606,058","3 bds 2 ba 1,585 sqft",90805,33.84418,-118.194903,21157368,https://www.zillow.com/homedetails/57-W-Arbor-St-Long-Beach-CA-90805/21157368_zpid/
+510,2316 Tulane Ave,"Est. $801,197","3 bds 2 ba 1,951 sqft",90815,33.798947,-118.12933,21202815,https://www.zillow.com/homedetails/2316-Tulane-Ave-Long-Beach-CA-90815/21202815_zpid/
+511,3811 Marber Ave,"Est. $690,857","4 bds 2 ba 1,718 sqft",90808,33.828108,-118.124779,21185872,https://www.zillow.com/homedetails/3811-Marber-Ave-Long-Beach-CA-90808/21185872_zpid/
+512,2816 E 56th St,$--,"3 bds 2 ba 1,406 sqft",90805,33.857613,-118.158296,21169608,https://www.zillow.com/homedetails/2816-E-56th-St-Long-Beach-CA-90805/21169608_zpid/
+513,411 W Seaside Way UNIT 1901,"$949,000","2 bds 2 ba 1,330 sqft",90802,33.766165,-118.196875,82582645,https://www.zillow.com/homedetails/411-W-Seaside-Way-UNIT-1901-Long-Beach-CA-90802/82582645_zpid/
+514,1510 Stanley Ave,"Est. $493,265",2 bds 1 ba 863 sqft,90804,33.786954,-118.161927,21227278,https://www.zillow.com/homedetails/1510-Stanley-Ave-Long-Beach-CA-90804/21227278_zpid/
+515,2730 Rodloy Ave,"Est. $503,361","4 bds 2 ba 1,285 sqft",90810,33.806884,-118.216676,21248252,https://www.zillow.com/homedetails/2730-Rodloy-Ave-Long-Beach-CA-90810/21248252_zpid/
+516,1741 Rose Ave,"Est. $495,811",2 bds 1 ba 752 sqft,90813,33.788556,-118.170131,21227796,https://www.zillow.com/homedetails/1741-Rose-Ave-Long-Beach-CA-90813/21227796_zpid/
+517,1934 Locust Ave,"Est. $609,047","3 bds 2 ba 1,408 sqft",90806,33.792477,-118.190775,21196347,https://www.zillow.com/homedetails/1934-Locust-Ave-Long-Beach-CA-90806/21196347_zpid/
+518,1947 Daisy Ave,"$849,000","2 bds 3 ba 1,552 sqft",90806,33.792643,-118.199786,21192943,https://www.zillow.com/homedetails/1947-Daisy-Ave-Long-Beach-CA-90806/21192943_zpid/
+519,433 Pine Ave UNIT 302,"$539,000","Studio1 ba 1,228 sqft",90802,33.772398,-118.192761,2083680823,https://www.zillow.com/homedetails/433-Pine-Ave-UNIT-302-Long-Beach-CA-90802/2083680823_zpid/
+520,1837 Lime Ave,"Est. $508,041",3 bds 1 ba 989 sqft,90806,33.790584,-118.184257,21196900,https://www.zillow.com/homedetails/1837-Lime-Ave-Long-Beach-CA-90806/21196900_zpid/
+521,1116 Belmont Ave # A,"Est. $1,056,348","5 bds 3 ba 2,571 sqft",90804,33.781176,-118.144468,21222257,https://www.zillow.com/homedetails/1116-Belmont-Ave-A-Long-Beach-CA-90804/21222257_zpid/
+522,3595 Santa Fe Ave #182,"$504,500","3 bds 2 ba 1,600 sqft",90810,33.82047,-118.218685,2082081657,https://www.zillow.com/homedetails/3595-Santa-Fe-Ave-182-Long-Beach-CA-90810/2082081657_zpid/
+523,224 E 67th Way,"$650,000","5 bds 2 ba 1,926 sqft",90805,33.876613,-118.199369,21242913,https://www.zillow.com/homedetails/224-E-67th-Way-Long-Beach-CA-90805/21242913_zpid/
+524,394 Coronado Ave,"$4,225,000","5 bds 4 ba 8,688 sqft",90814,33.77154,-118.1532,2109750640,https://www.zillow.com/homedetails/394-Coronado-Ave-Long-Beach-CA-90814/2109750640_zpid/
+525,3260 Chestnut Ave,"Est. $730,549","3 bds 2 ba 1,784 sqft",90806,33.816435,-118.195567,21194240,https://www.zillow.com/homedetails/3260-Chestnut-Ave-Long-Beach-CA-90806/21194240_zpid/
+526,1380 Bennett Ave,"Est. $630,171","2 bds 1 ba 1,017 sqft",90804,33.784159,-118.142381,21222103,https://www.zillow.com/homedetails/1380-Bennett-Ave-Long-Beach-CA-90804/21222103_zpid/
+527,5708 Malaga Pl,"Est. $1,173,927","5 bds 3 ba 2,927 sqft",90814,33.768259,-118.120131,21218042,https://www.zillow.com/homedetails/5708-Malaga-Pl-Long-Beach-CA-90814/21218042_zpid/
+528,2125 W 29th St,"Est. $495,917","3 bds 2 ba 1,649 sqft",90810,33.810208,-118.220377,21247951,https://www.zillow.com/homedetails/2125-W-29th-St-Long-Beach-CA-90810/21247951_zpid/
+529,2361 Tevis Ave,"Est. $738,525","3 bds 2 ba 1,645 sqft",90815,33.801555,-118.110949,21206319,https://www.zillow.com/homedetails/2361-Tevis-Ave-Long-Beach-CA-90815/21206319_zpid/
+530,1775 Ohio Ave UNIT 207,"Est. $387,850","2 bds 2 ba 1,019 sqft",90804,33.789404,-118.160185,21227144,https://www.zillow.com/homedetails/1775-Ohio-Ave-UNIT-207-Long-Beach-CA-90804/21227144_zpid/
+531,3440 Walnut Ave,"Est. $638,221","2 bds 1 ba 1,099 sqft",90807,33.819725,-118.171664,21164541,https://www.zillow.com/homedetails/3440-Walnut-Ave-Long-Beach-CA-90807/21164541_zpid/
+532,1524 Henderson Ave,"$1,298,000","4 bds 4 ba 4,636 sqft",90813,33.786757,-118.19728,21235540,https://www.zillow.com/homedetails/1524-Henderson-Ave-Long-Beach-CA-90813/21235540_zpid/
+533,2063 Atlantic Ave,"Est. $583,042","3 bds 2 ba 1,750 sqft",90806,33.794603,-118.185326,113413393,https://www.zillow.com/homedetails/2063-Atlantic-Ave-Long-Beach-CA-90806/113413393_zpid/
+534,174 E 67th St,"Est. $549,712","3 bds 2 ba 1,707 sqft",90805,33.875775,-118.201002,21243332,https://www.zillow.com/homedetails/174-E-67th-St-Long-Beach-CA-90805/21243332_zpid/
+535,6541 Walnut Ave,"Est. $457,926","2 bds 1 ba 1,088 sqft",90805,33.873588,-118.17333,21146482,https://www.zillow.com/homedetails/6541-Walnut-Ave-Long-Beach-CA-90805/21146482_zpid/
+537,1403 Locust Ave,"Est. $604,723","2 bds 2 ba 1,457 sqft",90813,33.784075,-118.191289,21235151,https://www.zillow.com/homedetails/1403-Locust-Ave-Long-Beach-CA-90813/21235151_zpid/
+538,1408 Walnut Ave,"$954,900","6 bds 4 ba 3,538 sqft",90813,33.7847,-118.171745,21228038,https://www.zillow.com/homedetails/1408-Walnut-Ave-Long-Beach-CA-90813/21228038_zpid/
+539,5501 Lemon Ave,"Est. $512,282","3 bds 2 ba 1,227 sqft",90805,33.856403,-118.179376,21153191,https://www.zillow.com/homedetails/5501-Lemon-Ave-Long-Beach-CA-90805/21153191_zpid/
+540,1310 E Ocean Blvd UNIT 1005,"$725,000",1 bd1 ba 990 sqft,90802,33.76493,-118.175569,21231842,https://www.zillow.com/homedetails/1310-E-Ocean-Blvd-UNIT-1005-Long-Beach-CA-90802/21231842_zpid/
+541,5703 E Belen St,"Est. $663,266","3 bds 1 ba 1,386 sqft",90815,33.809232,-118.120232,21205923,https://www.zillow.com/homedetails/5703-E-Belen-St-Long-Beach-CA-90815/21205923_zpid/
+542,1115 E Artesia Blvd,"$335,000","6,207 sqft lot",90805,33.874911,-118.17881,2088561752,https://www.zillow.com/homedetails/1115-E-Artesia-Blvd-Long-Beach-CA-90805/2088561752_zpid/
+543,2408 Linden Ave,"Est. $609,258","3 bds 2 ba 1,564 sqft",90806,33.801025,-118.185787,21195695,https://www.zillow.com/homedetails/2408-Linden-Ave-Long-Beach-CA-90806/21195695_zpid/
+544,645 Pacific Ave UNIT 212,"Est. $421,553",2 bds 2 ba 988 sqft,90802,33.774962,-118.194127,21236263,https://www.zillow.com/homedetails/645-Pacific-Ave-UNIT-212-Long-Beach-CA-90802/21236263_zpid/
+545,206 E 68th St,"$1,550,000",8 bds 6 ba -- sqft,90805,33.877476,-118.200029,2081917669,https://www.zillow.com/homedetails/206-E-68th-St-Long-Beach-CA-90805/2081917669_zpid/
+546,8032 Dorado Cir,"$899,990+","4 bds 3 ba 2,527 sqft",90808,33.822468,-118.072379,2081831399,https://www.zillow.com/homedetails/8032-Dorado-Cir-Long-Beach-CA-90808/2081831399_zpid/
+548,7135 Eastondale Ave,"Est. $504,267","4 bds 2 ba 1,300 sqft",90805,33.884322,-118.185066,21142021,https://www.zillow.com/homedetails/7135-Eastondale-Ave-Long-Beach-CA-90805/21142021_zpid/
+549,388 E Ocean Blvd UNIT 212,"Est. $598,161","2 bds 2 ba 1,040 sqft",90802,33.766227,-118.18756,68994341,https://www.zillow.com/homedetails/388-E-Ocean-Blvd-UNIT-212-Long-Beach-CA-90802/68994341_zpid/
+550,8016 Dorado Cir,"$899,990+","4 bds 3 ba 2,527 sqft",90808,33.822786,-118.073474,2082764033,https://www.zillow.com/homedetails/8016-Dorado-Cir-Long-Beach-CA-90808/2082764033_zpid/
+551,30 W Harcourt St,"Est. $534,374","3 bds 2 ba 1,438 sqft",90805,33.867439,-118.201563,21244230,https://www.zillow.com/homedetails/30-W-Harcourt-St-Long-Beach-CA-90805/21244230_zpid/
+552,1330 E Michelson St,"Est. $520,484","3 bds 2 ba 1,148 sqft",90805,33.856592,-118.175591,21153855,https://www.zillow.com/homedetails/1330-E-Michelson-St-Long-Beach-CA-90805/21153855_zpid/
+553,224 E 67th Way # 1,"$650,000","5 bds 2 ba 1,926 sqft",90805,33.876613,-118.199369,2082760910,https://www.zillow.com/homedetails/224-E-67th-Way-1-Long-Beach-CA-90805/2082760910_zpid/
+554,224 E 67th Way # 2,"$650,000","5 bds 2 ba 1,926 sqft",90805,33.876613,-118.199369,2082760912,https://www.zillow.com/homedetails/224-E-67th-Way-2-Long-Beach-CA-90805/2082760912_zpid/
+555,416 W Burnett St APT 1-4,"$1,100,000","4 bds 4 ba 2,355 sqft",90806,33.800599,-118.196314,21194602,https://www.zillow.com/homedetails/416-W-Burnett-St-APT-1-4-Long-Beach-CA-90806/21194602_zpid/
+556,1524 E 3rd St,"$3,400,000","5 bds 6 ba 9,044 sqft",90802,33.769271,-118.172278,250343294,https://www.zillow.com/homedetails/1524-E-3rd-St-Long-Beach-CA-90802/250343294_zpid/
+557,645 Chestnut Ave APT 315,"Est. $387,828",2 bds 2 ba 867 sqft,90802,33.774974,-118.196763,21236501,https://www.zillow.com/homedetails/645-Chestnut-Ave-APT-315-Long-Beach-CA-90802/21236501_zpid/
+558,3595 Santa Fe Ave # 53,"$514,500","3 bds 2 ba 1,600 sqft",90810,33.82047,-118.218685,2082908894,https://www.zillow.com/homedetails/3595-Santa-Fe-Ave-53-Long-Beach-CA-90810/2082908894_zpid/
+559,1310 E Ocean Blvd UNIT 903,"$699,900",1 bd1 ba 960 sqft,90802,33.76493,-118.175569,21231833,https://www.zillow.com/homedetails/1310-E-Ocean-Blvd-UNIT-903-Long-Beach-CA-90802/21231833_zpid/
+560,55 W Arbor St # 57,"$747,382","3 bds 2 ba 1,585 sqft",90805,33.843923,-118.194808,2081885928,https://www.zillow.com/homedetails/55-W-Arbor-St-57-Long-Beach-CA-90805/2081885928_zpid/
+561,2320 Delta Ave,"Est. $521,233","2 bds 1 ba 1,386 sqft",90810,33.799404,-118.210781,21285397,https://www.zillow.com/homedetails/2320-Delta-Ave-Long-Beach-CA-90810/21285397_zpid/
+562,114 W Market St,"Est. $681,500","4 bds 4 ba 2,216 sqft",90805,33.853984,-118.198904,21156480,https://www.zillow.com/homedetails/114-W-Market-St-Long-Beach-CA-90805/21156480_zpid/
+563,2528 E 17th St,"Est. $480,511",2 bds 1 ba 808 sqft,90804,33.787888,-118.161526,21227280,https://www.zillow.com/homedetails/2528-E-17th-St-Long-Beach-CA-90804/21227280_zpid/
+564,1000 E Ocean Blvd UNIT 306,"$1,100,000","3 bds 2 ba 1,409 sqft",90802,33.765388,-118.181076,63093026,https://www.zillow.com/homedetails/1000-E-Ocean-Blvd-UNIT-306-Long-Beach-CA-90802/63093026_zpid/
+566,43 E Plymouth St,"Est. $629,919","4 bds 3 ba 1,738 sqft",90805,33.853573,-118.194399,21155685,https://www.zillow.com/homedetails/43-E-Plymouth-St-Long-Beach-CA-90805/21155685_zpid/
+568,3322 Elm Ave,"Est. $370,777",2 bds 2 ba 977 sqft,90807,33.817673,-118.187785,21164949,https://www.zillow.com/homedetails/3322-Elm-Ave-Long-Beach-CA-90807/21164949_zpid/
+569,2240 Delta Ave,"Est. $493,765",3 bds 1 ba 999 sqft,90810,33.797859,-118.210781,21285565,https://www.zillow.com/homedetails/2240-Delta-Ave-Long-Beach-CA-90810/21285565_zpid/
+570,1415 Locust Ave,"$1,499,000","8 bds 4 ba 3,833 sqft",90813,33.78428,-118.19129,82877164,https://www.zillow.com/homedetails/1415-Locust-Ave-Long-Beach-CA-90813/82877164_zpid/
+571,4910 Oregon Ave,"Est. $636,961","4 bds 3 ba 1,800 sqft",90805,33.845102,-118.199935,21157159,https://www.zillow.com/homedetails/4910-Oregon-Ave-Long-Beach-CA-90805/21157159_zpid/
+572,6974 Long Beach Blvd,"$6,425,000","3 bds 2 ba 17,703 sqft",90805,33.880721,-118.203977,2082940077,https://www.zillow.com/homedetails/6974-Long-Beach-Blvd-Long-Beach-CA-90805/2082940077_zpid/
+573,1315 W 21st St,"Est. $657,357","3 bds 3 ba 1,899 sqft",90810,33.795503,-118.209346,21298811,https://www.zillow.com/homedetails/1315-W-21st-St-Long-Beach-CA-90810/21298811_zpid/
+574,6441 Indiana Ave,"Est. $535,203","3 bds 1 ba 1,321 sqft",90805,33.871642,-118.153799,21149488,https://www.zillow.com/homedetails/6441-Indiana-Ave-Long-Beach-CA-90805/21149488_zpid/
+575,2391 Fashion Ave,"Est. $460,063","2 bds 1 ba 1,162 sqft",90810,33.800611,-118.209237,21285420,https://www.zillow.com/homedetails/2391-Fashion-Ave-Long-Beach-CA-90810/21285420_zpid/
+576,3166 San Francisco Ave,"Est. $554,339",3 bds 1 ba 996 sqft,90806,33.81467,-118.203159,21193600,https://www.zillow.com/homedetails/3166-San-Francisco-Ave-Long-Beach-CA-90806/21193600_zpid/
+577,134 W Plymouth St,"Est. $546,823","4 bds 2 ba 1,578 sqft",90805,33.853024,-118.199288,21156506,https://www.zillow.com/homedetails/134-W-Plymouth-St-Long-Beach-CA-90805/21156506_zpid/
+578,1140 E Ocean Blvd UNIT 210,"Est. $444,641",1 bd1 ba 732 sqft,90802,33.765291,-118.178345,21231513,https://www.zillow.com/homedetails/1140-E-Ocean-Blvd-UNIT-210-Long-Beach-CA-90802/21231513_zpid/
+579,444 E Norton St,"Est. $499,708","3 bds -- ba 1,238 sqft",90805,33.858172,-118.187338,21153484,https://www.zillow.com/homedetails/444-E-Norton-St-Long-Beach-CA-90805/21153484_zpid/
+580,5535 Ackerfield Ave UNIT 44,"Est. $233,543",1 bd1 ba 671 sqft,90805,33.857776,-118.163668,21169659,https://www.zillow.com/homedetails/5535-Ackerfield-Ave-UNIT-44-Long-Beach-CA-90805/21169659_zpid/
+581,8015 Dorado Cir,"$899,990+","4 bds 3 ba 2,527 sqft",90808,33.8231,-118.073337,2085161306,https://www.zillow.com/homedetails/8015-Dorado-Cir-Long-Beach-CA-90808/2085161306_zpid/
+582,3318 Elm Ave,"Est. $370,210",2 bds 3 ba 979 sqft,90807,33.817653,-118.188096,21164947,https://www.zillow.com/homedetails/3318-Elm-Ave-Long-Beach-CA-90807/21164947_zpid/
+583,206 1/2 E 68th St,"$1,550,000","8 bds 6 ba 3,372 sqft",90805,33.877476,-118.200029,21242941,https://www.zillow.com/homedetails/206-1-2-E-68th-St-Long-Beach-CA-90805/21242941_zpid/
+584,2017 W Jeanette Pl,$--,"3 bds 2 ba 1,210 sqft",90810,33.807865,-118.218903,21248088,https://www.zillow.com/homedetails/2017-W-Jeanette-Pl-Long-Beach-CA-90810/21248088_zpid/
+585,6170 Coke Ave,"Est. $563,285","3 bds 2 ba 1,219 sqft",90805,33.867621,-118.146843,21171320,https://www.zillow.com/homedetails/6170-Coke-Ave-Long-Beach-CA-90805/21171320_zpid/
+586,1974 Daisy Ave,"Est. $608,640","3 bds 1 ba 1,519 sqft",90806,33.793052,-118.198945,21193000,https://www.zillow.com/homedetails/1974-Daisy-Ave-Long-Beach-CA-90806/21193000_zpid/
+587,2620 Fashion Ave,"Est. $721,844","4 bds 2 ba 2,466 sqft",90810,33.804946,-118.208608,21247546,https://www.zillow.com/homedetails/2620-Fashion-Ave-Long-Beach-CA-90810/21247546_zpid/
+588,5825 Jaymills Ave,"Est. $471,552",2 bds 1 ba 833 sqft,90805,33.861373,-118.192268,21152067,https://www.zillow.com/homedetails/5825-Jaymills-Ave-Long-Beach-CA-90805/21152067_zpid/
+589,3221 E Curry St,"Est. $576,675","4 bds 2 ba 1,332 sqft",90805,33.86668,-118.154966,21149760,https://www.zillow.com/homedetails/3221-E-Curry-St-Long-Beach-CA-90805/21149760_zpid/
+590,940 Martin Luther King Jr Ave,"$460,000","2,992 sqft lot",90813,33.77852,-118.180427,21237436,https://www.zillow.com/homedetails/940-Martin-Luther-King-Jr-Ave-Long-Beach-CA-90813/21237436_zpid/
+591,3309 N Crest Dr,"Est. $407,200","2 bds 2 ba 1,100 sqft",90807,33.816883,-118.189647,21193997,https://www.zillow.com/homedetails/3309-N-Crest-Dr-Long-Beach-CA-90807/21193997_zpid/
+592,2101 E 63rd St,"Est. $459,389",2 bds 1 ba 864 sqft,90805,33.86982,-118.167723,21148801,https://www.zillow.com/homedetails/2101-E-63rd-St-Long-Beach-CA-90805/21148801_zpid/
+593,1041 E 66th Way,"Est. $682,898","6 bds 3 ba 2,342 sqft",90805,33.875808,-118.180327,21146916,https://www.zillow.com/homedetails/1041-E-66th-Way-Long-Beach-CA-90805/21146916_zpid/
+594,51 W Harcourt St,"Est. $509,889","3 bds 2 ba 1,474 sqft",90805,33.867881,-118.202125,21244193,https://www.zillow.com/homedetails/51-W-Harcourt-St-Long-Beach-CA-90805/21244193_zpid/
+595,1631 E 10th St,"Est. $678,165","2 bds 3 ba 1,540 sqft",90813,33.779218,-118.171204,21233823,https://www.zillow.com/homedetails/1631-E-10th-St-Long-Beach-CA-90813/21233823_zpid/
+596,3231 E Janice St,"Est. $552,170","4 bds 2 ba 1,200 sqft",90805,33.867378,-118.154759,21149721,https://www.zillow.com/homedetails/3231-E-Janice-St-Long-Beach-CA-90805/21149721_zpid/
+597,1310 E Ocean Blvd UNIT 603,"$649,000",1 bd1 ba 960 sqft,90802,33.76493,-118.175569,21231812,https://www.zillow.com/homedetails/1310-E-Ocean-Blvd-UNIT-603-Long-Beach-CA-90802/21231812_zpid/
+598,7062 Olive Ave,"Est. $446,786",2 bds 1 ba 905 sqft,90805,33.883057,-118.182472,21142170,https://www.zillow.com/homedetails/7062-Olive-Ave-Long-Beach-CA-90805/21142170_zpid/
+599,5462 Atlantic Ave,"$990,000","4 bds 4 ba 2,926 sqft",90805,33.855509,-118.184627,136110794,https://www.zillow.com/homedetails/5462-Atlantic-Ave-Long-Beach-CA-90805/136110794_zpid/
+600,5933 Lemon Ave,"Est. $465,847","2 bds 2 ba 1,164 sqft",90805,33.86304,-118.179429,21151215,https://www.zillow.com/homedetails/5933-Lemon-Ave-Long-Beach-CA-90805/21151215_zpid/
+601,6460 Brayton Ave,"Est. $532,607","3 bds 2 ba 1,475 sqft",90805,33.87212,-118.175885,21146604,https://www.zillow.com/homedetails/6460-Brayton-Ave-Long-Beach-CA-90805/21146604_zpid/
+602,324 W 7th St,"$1,195,000","1 bd1 ba 2,808 sqft",90813,33.775159,-118.195804,21236392,https://www.zillow.com/homedetails/324-W-7th-St-Long-Beach-CA-90813/21236392_zpid/
+603,1133 Ohio Ave,"$2,495,000","2 bds 2 ba 6,120 sqft",90804,33.781423,-118.160354,2097736634,https://www.zillow.com/homedetails/1133-Ohio-Ave-Long-Beach-CA-90804/2097736634_zpid/
+604,435 Daisy Ave,"Est. $953,422","2 bds 4 ba 2,770 sqft",90802,33.772462,-118.1997,21239715,https://www.zillow.com/homedetails/435-Daisy-Ave-Long-Beach-CA-90802/21239715_zpid/
+605,2701 Adriatic Ave,"Est. $546,514","4 bds 2 ba 1,693 sqft",90810,33.806331,-118.214659,21247336,https://www.zillow.com/homedetails/2701-Adriatic-Ave-Long-Beach-CA-90810/21247336_zpid/
+606,1940 Henderson Ave,"Est. $824,839","4 bds 4 ba 2,732 sqft",90806,33.792509,-118.197267,21196497,https://www.zillow.com/homedetails/1940-Henderson-Ave-Long-Beach-CA-90806/21196497_zpid/
+607,6648 Gale Ave,"Est. $481,647","3 bds 1 ba 1,099 sqft",90805,33.875749,-118.205361,21243629,https://www.zillow.com/homedetails/6648-Gale-Ave-Long-Beach-CA-90805/21243629_zpid/
+608,1012 E 10th St,"$640,000","7,514 sqft lot",90813,33.778644,-118.180262,136199461,https://www.zillow.com/homedetails/1012-E-10th-St-Long-Beach-CA-90813/136199461_zpid/
+609,2514 Adriatic Ave,"Est. $512,896","3 bds 2 ba 1,347 sqft",90810,33.802701,-118.214038,21284965,https://www.zillow.com/homedetails/2514-Adriatic-Ave-Long-Beach-CA-90810/21284965_zpid/
+610,2333 Caspian Ave,"Est. $687,612","5 bds 2 ba 2,459 sqft",90810,33.799626,-118.212474,21285332,https://www.zillow.com/homedetails/2333-Caspian-Ave-Long-Beach-CA-90810/21285332_zpid/
+611,4935 Locust Ave,"Est. $500,764","2 bds 1 ba 1,242 sqft",90805,33.845606,-118.189991,21156985,https://www.zillow.com/homedetails/4935-Locust-Ave-Long-Beach-CA-90805/21156985_zpid/
+612,6568 Gundry Ave,"Est. $539,136","3 bds 1 ba 1,704 sqft",90805,33.874026,-118.174847,21146521,https://www.zillow.com/homedetails/6568-Gundry-Ave-Long-Beach-CA-90805/21146521_zpid/
+613,1058 E 70th Way,"Est. $448,040",2 bds 1 ba 900 sqft,90805,33.882507,-118.179841,21142357,https://www.zillow.com/homedetails/1058-E-70th-Way-Long-Beach-CA-90805/21142357_zpid/
+614,3076 Gale Ave,"Est. $449,278",2 bds 1 ba 889 sqft,90810,33.813031,-118.207513,21246798,https://www.zillow.com/homedetails/3076-Gale-Ave-Long-Beach-CA-90810/21246798_zpid/
+615,401 W 31st St,"Est. $618,842","3 bds 2 ba 1,191 sqft",90806,33.813695,-118.196048,21194325,https://www.zillow.com/homedetails/401-W-31st-St-Long-Beach-CA-90806/21194325_zpid/
+616,1410 E 60th St,"Est. $574,698","2 bds 2 ba 1,599 sqft",90805,33.863988,-118.175007,21150299,https://www.zillow.com/homedetails/1410-E-60th-St-Long-Beach-CA-90805/21150299_zpid/
+617,6890 Long Beach Blvd,"$590,000",0.36 acres lot,90805,33.879187,-118.203875,2086074930,https://www.zillow.com/homedetails/6890-Long-Beach-Blvd-Long-Beach-CA-90805/2086074930_zpid/
+618,1733 W 29th St,"Est. $521,749","3 bds 1 ba 1,683 sqft",90810,33.810208,-118.216372,21247992,https://www.zillow.com/homedetails/1733-W-29th-St-Long-Beach-CA-90810/21247992_zpid/
+619,2408 And 2410 Linden Ave,"$748,681",-- bds -- ba -- sqft,90806,33.801025,-118.185787,2082336980,https://www.zillow.com/homedetails/2408-And-2410-Linden-Ave-Long-Beach-CA-90806/2082336980_zpid/
+620,5828 Falcon Ave,"Est. $460,283",2 bds 1 ba 980 sqft,90805,33.860703,-118.174143,21150616,https://www.zillow.com/homedetails/5828-Falcon-Ave-Long-Beach-CA-90805/21150616_zpid/
+621,2190 W 17th St,"$800,000","9,134 sqft lot",90813,33.787892,-118.221248,2081711486,https://www.zillow.com/homedetails/2190-W-17th-St-Long-Beach-CA-90813/2081711486_zpid/
+622,1081 E 66th Way,"Est. $506,706","3 bds 1 ba 1,144 sqft",90805,33.875811,-118.179319,21146943,https://www.zillow.com/homedetails/1081-E-66th-Way-Long-Beach-CA-90805/21146943_zpid/
+623,84 W Pleasant St,"Est. $460,471",2 bds 1 ba 796 sqft,90805,33.845848,-118.197435,21157257,https://www.zillow.com/homedetails/84-W-Pleasant-St-Long-Beach-CA-90805/21157257_zpid/
+624,774 Obispo Ave,"$1,489,000","9 bds 5 ba 4,191 sqft",90804,33.776721,-118.154267,21226182,https://www.zillow.com/homedetails/774-Obispo-Ave-Long-Beach-CA-90804/21226182_zpid/
+625,1941 Daisy Ave,"$849,000","2 bds 3 ba 1,552 sqft",90806,33.792511,-118.199797,21192944,https://www.zillow.com/homedetails/1941-Daisy-Ave-Long-Beach-CA-90806/21192944_zpid/
+626,1901 Pacific Ave,"$570,000","8,150 sqft lot",90806,33.791822,-118.194146,2086205954,https://www.zillow.com/homedetails/1901-Pacific-Ave-Long-Beach-CA-90806/2086205954_zpid/
+627,259 E Ellis St,"Est. $515,769","4 bds 1 ba 1,670 sqft",90805,33.856987,-118.190486,21152583,https://www.zillow.com/homedetails/259-E-Ellis-St-Long-Beach-CA-90805/21152583_zpid/
+628,6761 Delta Ave,"Est. $411,045",2 bds 1 ba 861 sqft,90805,33.877101,-118.208309,21243418,https://www.zillow.com/homedetails/6761-Delta-Ave-Long-Beach-CA-90805/21243418_zpid/
+629,1232 E Washington St,"Est. $495,972",2 bds 1 ba 916 sqft,90805,33.854968,-118.176481,21153930,https://www.zillow.com/homedetails/1232-E-Washington-St-Long-Beach-CA-90805/21153930_zpid/
+630,115 W 4th St UNIT 206,"Est. $594,496","-- bds 1 ba 1,136 sqft",90802,33.772038,-118.192774,60115776,https://www.zillow.com/homedetails/115-W-4th-St-UNIT-206-Long-Beach-CA-90802/60115776_zpid/
+632,1020 E 10th St,"$640,000","7,509 sqft lot",90813,33.778644,-118.180098,89147527,https://www.zillow.com/homedetails/1020-E-10th-St-Long-Beach-CA-90813/89147527_zpid/
+633,1941 & 1947 Daisy Ave,"$849,000",1 bd1 ba -- sqft,90806,33.792505,-118.199785,2082716353,https://www.zillow.com/homedetails/1941-1947-Daisy-Ave-Long-Beach-CA-90806/2082716353_zpid/
+634,1826 N Palmer Ct,$--,"Studio-- ba 5,882 sqft",90806,33.790467,-118.189907,136155136,https://www.zillow.com/homedetails/1826-N-Palmer-Ct-Long-Beach-CA-90806/136155136_zpid/
+635,1600 Orizaba Ave,"$2,800,000","Studio-- ba 6,543 sqft",90804,33.787204,-118.156438,2112371732,https://www.zillow.com/homedetails/1600-Orizaba-Ave-Long-Beach-CA-90804/2112371732_zpid/
+636,6341 Coronado Ave,"$589,900","3 bds 2 ba 1,200 sqft",90805,33.869942,-118.155007,21149511,https://www.zillow.com/homedetails/6341-Coronado-Ave-Long-Beach-CA-90805/21149511_zpid/
+637,259 E 52nd St,"$369,900",2 bds 2 ba 650 sqft,90805,33.850699,-118.190436,21156028,https://www.zillow.com/homedetails/259-E-52nd-St-Long-Beach-CA-90805/21156028_zpid/
+638,5925 Orange Ave,"$475,000","3 bds 2 ba 1,250 sqft",90805,33.86283,-118.1776,21151271,https://www.zillow.com/homedetails/5925-Orange-Ave-Long-Beach-CA-90805/21151271_zpid/
+639,8115 Marina Pacifica Dr N,"Est. $385,335",Studio-- ba 650 sqft,90803,33.759619,-118.116591,21214787,https://www.zillow.com/homedetails/8115-Marina-Pacifica-Dr-N-Long-Beach-CA-90803/21214787_zpid/
+640,2135 E 4th St APT 302,"Est. $450,874","2 bds 2 ba 1,111 sqft",90814,33.771923,-118.165784,21229018,https://www.zillow.com/homedetails/2135-E-4th-St-APT-302-Long-Beach-CA-90814/21229018_zpid/
