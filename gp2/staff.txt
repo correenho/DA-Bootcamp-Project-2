@@ -1,0 +1,80 @@
+Name	Code	Doctorate	Special Degree(Juris Doctor)	Master's Degree +30	Master's Degree	Fifth Year within BA	Fifth Year Induction	Fifth Year	Baccalaureate Degree +30	Baccalaureate Degree	Associate Degree	None Reported	Total
+Addams Elementary	6015119	0	0	1	21	0	0	0	4	9	0	0	35
+Bancroft Middle	6061337	0	0	3	17	0	0	0	10	5	0	0	35
+Barton Elementary	6015135	0	0	3	14	0	0	0	7	1	0	0	25
+Beach High-Intensive Learning Program	0125153	0	0	0	11	0	0	0	4	2	0	0	17
+Birney Elementary	6015143	1	0	1	18	0	0	0	6	2	0	0	28
+Bixby Elementary	6015150	1	0	1	6	0	0	0	9	1	0	0	18
+Bobbie Smith Elementary	6015200	0	0	2	24	0	0	0	12	1	0	0	39
+Bryant Elementary	6015168	1	0	1	11	0	0	0	5	0	0	0	18
+Burbank Elementary	6015184	0	0	1	19	0	0	0	13	1	0	0	34
+Burcham Elementary	6015192	0	0	0	15	0	0	0	2	0	0	0	17
+Cabrillo High	1995935	4	0	9	44	0	0	0	41	9	0	0	107
+California Academy Of Mathematics And Science	1995539	2	0	4	13	0	0	0	4	2	0	0	25
+Carver Elementary	6015242	0	0	2	16	0	0	0	3	0	0	0	21
+Chavez Elementary	0107458	0	0	2	9	0	0	0	6	1	0	0	18
+Cleveland Elementary	6015259	0	0	0	14	0	0	0	6	1	0	0	21
+Cubberley K-8	6015267	3	0	3	29	0	0	0	11	2	0	0	48
+District Office	0000000	4	0	10	85	0	0	0	21	6	0	0	126
+Dooley Elementary	0114603	0	0	3	23	0	0	0	8	6	0	0	40
+Edison Elementary	6015275	0	0	1	20	0	0	0	7	2	0	0	30
+Educational Partnership High	1995570	1	0	2	17	0	0	0	1	2	0	0	23
+Emerson Parkside Academy	6015283	1	0	2	13	0	0	0	5	0	0	0	21
+Ernest S. Mcbride, Sr. High	0127381	0	0	8	17	0	0	0	4	2	0	1	32
+Eunice Sato Academy Of Math &Amp; Science	0132324	0	0	0	12	0	0	0	4	2	0	0	18
+Franklin Classical Middle	6061345	0	0	7	26	0	0	0	9	9	0	0	51
+Fremont Elementary	6015309	0	0	0	13	0	0	0	6	1	0	0	20
+Gant Elementary	6015317	0	0	2	12	0	0	0	10	0	0	0	24
+Garfield Elementary	6015325	0	0	1	16	0	0	0	13	2	0	0	32
+Gompers K-8	6015333	1	0	2	22	0	0	0	6	1	0	0	32
+Grant Elementary	6015341	0	0	2	28	0	0	0	11	3	0	0	44
+Hamilton Middle	6057780	0	0	0	16	0	0	0	18	5	0	0	39
+Harte Elementary	6015358	0	0	0	25	0	0	0	2	9	0	0	36
+Helen Keller Middle	0132381	0	0	1	8	0	0	0	4	2	0	0	15
+Henry	6015366	0	0	0	18	0	0	0	9	4	0	0	31
+Holmes Elementary	6015374	0	0	4	7	0	0	0	6	2	0	0	19
+Hoover Middle	6057798	1	0	4	21	0	0	0	4	1	0	0	31
+Hudson K-8	6015382	0	0	0	15	0	0	0	13	4	0	0	32
+Hughes Middle	6061360	2	0	6	23	0	0	0	21	3	0	0	55
+Intellectual Virtues Academy Of Long Beach	0127506	0	0	4	3	0	0	0	6	0	0	0	13
+Jefferson Leadership Academies	6057806	1	0	2	21	0	0	0	13	5	0	0	42
+Jenny Oropeza Elementary	6108013	0	0	1	19	0	0	0	9	2	0	0	31
+Jordan High	1934470	2	0	10	61	0	0	0	34	6	0	0	113
+Kettering Elementary	6015408	0	0	1	10	0	0	0	5	1	0	0	17
+King Elementary	6015416	1	0	4	23	0	0	0	5	2	0	0	35
+Lafayette Elementary	6015424	1	0	1	15	0	0	0	16	5	0	0	38
+Lincoln Elementary	6015440	0	0	2	22	0	0	0	12	9	0	0	45
+Lindbergh Stem Academy	6057814	1	0	2	11	0	0	0	10	3	0	0	27
+Lindsey Academy	0115535	0	0	1	16	0	0	0	11	3	0	0	31
+Longfellow Elementary	6015457	0	0	1	19	0	0	0	9	4	0	0	33
+Los Cerritos Elementary	6015465	0	0	0	11	0	0	0	6	2	0	0	19
+Lowell Elementary	6015473	2	0	0	19	0	0	0	7	2	0	0	30
+Macarthur Elementary	6015481	1	0	0	13	0	0	0	2	0	0	0	16
+Madison Elementary	6015499	0	0	2	13	0	0	0	2	0	0	0	17
+Mann Elementary	6015507	0	0	2	13	0	0	0	2	1	0	0	18
+Marshall Academy Of The Arts	6057822	0	0	2	20	0	0	0	14	2	0	0	38
+Mckinley Elementary	6015515	0	0	2	15	0	0	0	13	0	0	0	30
+Millikan High	1935758	2	0	8	90	0	0	0	43	5	0	0	148
+Muir K-8	6015531	1	0	2	30	0	0	0	9	3	0	0	45
+Naples Elementary	6015549	0	0	0	10	0	0	0	4	1	0	0	15
+Newcomb Academy	6015556	0	0	5	27	0	0	0	6	3	0	0	41
+Olivia Nieto Herrera Elementary	6015432	0	0	4	23	0	0	0	6	3	0	0	36
+Polytechnic High	1936947	6	0	14	85	0	0	0	36	27	0	0	168
+Powell Academy For Success	6116933	1	0	3	29	0	0	0	13	5	0	0	51
+Prisk Elementary	6015580	0	0	1	17	0	0	0	7	0	0	0	25
+Reid High	1937176	1	0	0	6	0	0	0	2	0	0	0	9
+Renaissance High School For The Arts	1996503	0	0	2	8	0	0	0	8	5	0	0	23
+Richard D. Browning High	0135525	0	0	2	5	0	0	0	6	3	0	0	16
+Robinson Academy	6112056	0	0	3	20	0	0	0	9	6	0	0	38
+Rogers Middle	6057830	1	0	0	18	0	0	0	14	2	0	0	35
+Roosevelt Elementary	6015606	0	0	2	25	0	0	0	15	0	0	0	42
+Stanford Middle	6061378	0	0	2	26	0	0	0	18	3	0	0	49
+Stephens Middle	6057848	0	0	3	14	0	0	0	10	7	0	0	34
+Stevenson Elementary	6015622	0	0	0	17	0	0	0	7	3	0	0	27
+Tincher Preparatory	6015648	0	0	2	21	0	0	0	8	1	0	0	32
+Twain Elementary	6015663	0	0	2	10	0	0	0	9	2	0	0	23
+Washington Middle	6061386	1	0	2	19	0	0	0	12	10	0	0	44
+Webster Elementary	6015671	0	0	1	16	0	0	0	6	2	0	0	25
+Whittier Elementary	6015689	1	0	2	18	0	0	0	12	8	0	0	41
+Willard Elementary	6015697	1	0	1	15	0	0	0	9	3	0	0	29
+Wilson High	1939875	3	0	9	75	0	0	0	47	25	0	0	159
