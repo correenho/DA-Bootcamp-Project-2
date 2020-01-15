@@ -1,12 +1,12 @@
-import os
+# import os
 
-import pandas as pd
-import numpy as np
+# import pandas as pd
+# import numpy as np
 
-import sqlalchemy
-from sqlalchemy.ext.automap import automap_base
-from sqlalchemy.orm import Session
-from sqlalchemy import create_engine
+# import sqlalchemy
+# from sqlalchemy.ext.automap import automap_base
+# from sqlalchemy.orm import Session
+# from sqlalchemy import create_engine
 
 from flask import Flask, jsonify, render_template
 # from flask_sqlalchemy import SQLAlchemy
@@ -31,8 +31,11 @@ app = Flask(__name__)
 # buy_list = Base.classes.buy_list
 # rent_list = Base.classes.rent_list
 
-
 @app.route("/")
+def index():
+	return render_template("index_ch.html")
+
+@app.route("/map")
 def index_map():
     """Return the homepage."""
     return render_template("index_map.html")
