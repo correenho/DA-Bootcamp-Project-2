@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>LBUSD School Climate</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.min.js"></script>
+<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+<script src="https://d3js.org/d3-queue.v3.min.js"></script>
+</head>
+
+
+<body bgcolor="000000"><!-- Navbar with dropdown menu on right and homepage link on left-->
+<nav class="navbar navbar-inverse">
+<h1 class="container-fluid" style="text-align: center;"><span style="color:#FFFFFF;"><font face="georgia, serif"><span style="font-size: 72px;"><b>Long Beach Unified Unified <br> School Climate Data</b></span></font></span></h1>
+</nav>
+
+<body>
+<select id="dropdown" onChange="makeGraphs(this.value)">
+<option disabled selected value> -- Select School -- </option>
+<option value="0">Addams Elementary</option>
+<option value="1">Brancroft Middle</option>
+<option value="2">Barton Elementary</option>
+<option value="3">Beach High- Intensive Learning Program</option>
+<option value="4">Birney Elementary</option>
+<option value="5">Bixby Elementary</option>
+<option value="6">Bobbie Smith Elementary</option>
+<option value="7">Bryant Elementary</option>
+<option value="8">Burbank Elementary</option>
+<option value="9">Burcham Elementary</option>
+<option value="10">Cabrillo High</option>
+<option value="11">California Academy of Mathematics and Science</option>
+<option value="12">Carver Elementary</option>
+<option value="13">Chavez Elementary</option>
+<option value="14">Cleveland Elementary</option>
+<option value="15">Cubberley K- 8</option>
+<option value="16">District Office</option>
+<option value="17">Dooley Elementary</option>
+<option value="18">Edison Elementary</option>
+<option value="19">Educational Partnership High</option>
+<option value="20">Emerson Parkside Academy</option>
+<option value="21">Ernest S. McBride, Sr. High</option>
+<option value="22">Eunice Sato Academy of Math & Science</option>
+<option value="23">Franklin Classical Middle</option>
+<option value="24">Fremont Elementary</option>
+<option value="25">Gant Elementary</option>
+<option value="26">Garfield Elementary</option>
+<option value="27">Gompers K- 8</option>
+<option value="28">Grant Elementary</option>
+<option value="29">Hamilton Middle</option>
+<option value="30">Harte Elementary</option>
+<option value="31">Helen Keller Middle</option>
+<option value="32">Henry</option>
+<option value="33">Holmes</option>
+<option value="34">Hoover Middle</option>
+<option value="35">Hudson K-8</option>
+<option value="36">Hughes Middle</option>
+<option value="37">Jefferson Leadership Academies</option>
+<option value="38">Jessie Nelson Elementary</option>
+<option value="39">Jordan High</option>
+<option value="40">Kettering Elementary</option>
+<option value="41">King Elementary</option>
+<option value="42">Lafayette Elementary</option>
+<option value="43">Lincoln Elementary</option>
+<option value="44">Lindbergh STEM Academy</option>
+<option value="45">Lindsey Academy</option>
+<option value="46">Longfellow Elementary</option>
+<option value="47">Los Cerritos Elementary</option>
+<option value="48">Lowell Elementary</option>
+<option value="49">MacArthur Elementary</option>
+<option value="50">Madison Elementary</option>
+<option value="51">Mann Elementary</option>
+<option value="52">Marshall Academy of the Arts</option>
+<option value="53">McKinley Elementary</option>
+<option value="54">Millikan High</option>
+<option value="55">Muir K-8</option>
+<option value="56">Naples Elementary</option>
+<option value="57">Newcomb Academy</option>
+<option value="58">Nonpublic, Nonsectarian Schools</option>
+<option value="59">Olivia Nieto Herrera Elementary</option>
+<option value="60">Polytechnic High</option>
+<option value="61">Powell Academy for Success</option>
+<option value="62">Prisk Elementary</option>
+<option value="63">Reid High</option>
+<option value="64">Renaissance High School for the Arts</option>
+<option value="65">Richard D. Browning High</option>
+<option value="66">Robinson Academy</option>
+<option value="67">Rogers Middle</option>
+<option value="68">Roosevelt Elementary</option>
+<option value="69">Stanford Middle</option>
+<option value="70">Stephens Middle</option>
+<option value="71">Stevenson Elementary</option>
+<option value="72">Tincher Preparatory</option>
+<option value="73">Twain Elementary</option>
+<option value="74">Washington Middle</option>
+<option value="75">Webster Elementary</option>
+<option value="76">Whittier Elementary</option>
+<option value="77">Willard Elementary</option>
+<option value="78">Wilson High</option>
+
+</select>
+
+
+<div class="container">
+  <div class="row">
+    <div class="col-md-6">
+      <div id="student"></div>
+	  <div id="english"></div>
+    </div>
+    <div class="col-md-6">
+      <div id="absent"></div>
+	  <div id="suspension"></div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-12">
+    <div id="staff"></div>            
+            </div>
+        </div>
+</div>
+	
+	
+
+
+	
+  <script src="static/js/app.js"></script>
+
+</body>
+
+</html>
