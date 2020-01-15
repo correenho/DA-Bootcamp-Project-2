@@ -13,8 +13,8 @@ DBS_NAME = 'project2'
 
 
 @app.route("/")
-def index():
-    return render_template("index.html")
+def school():
+    return render_template("school.html")
 
 @app.route("/project2/lbdemographics")
 def project2_lbdemographics():
