@@ -1,0 +1,56 @@
+<!DOCTYPE html> 
+<html lang="en">
+
+<head>
+	<title>Historical Data</title>
+<script>
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	list-style: none;
+	text-decoration: none;
+	font-family: 'Roboto', sans-serif;
+}</script>
+    </head>
+	 <div><a href="/">Back to Home Page</a></div>
+
+<body bgcolor="000000"><!-- Navbar with dropdown menu on right and homepage link on left-->
+<nav class="navbar navbar-inverse">
+<h1 class="container-fluid" style="text-align: center;"><span style="color:#FFFFFF;"><span style="font-size: 72px;"><b>Trend of Home Value Index (HVI) and Rent Prices<br> Long Beach, California</b></span></font></span></h1>
+</nav>
+
+<body>
+<!-- 	<div class="container">
+	<div class="row">
+		<div class="col-md-12 jumbotron text-center">
+			<h1>Trend of Home Value Index (HVI) and Rent Prices in Long Beach</h1>
+			<p>Select one of the buttons below to explore the dataset</p>
+      </div>
+  </div>
+</div> -->
+
+ <a href="/" type="button" class="btn btn-primary btn-lg" >Home Value Index</a>
+ <a href="page2" type="button" class="btn btn-secondary btn-lg">Rent by Sqft</a>
+ <a href="page3" type="button" class="btn btn-secondary btn-lg">Rent by Unit</a>
+<br>
+<br>
+ <div class="col-md-5">
+ <div id="line"></div>
+      </div>
+
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+<script src="https://d3js.org/d3-collection.v1.min.js"></script>
+<script src="https://d3js.org/d3-dispatch.v1.min.js"></script>
+<script src="https://d3js.org/d3-dsv.v1.min.js"></script>
+<script src="https://d3js.org/d3-request.v1.min.js"></script>
+<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+<script src="static/js/appjas.js"></script>
+<script type="text/javascript">
+ buildCharts('RentSqft');
+ </script>
+
+    </body>
+</html>
