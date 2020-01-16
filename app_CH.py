@@ -40,6 +40,10 @@ def index_map():
     """Return the homepage."""
     return render_template("index_map.html")
 
+@app.route("/crime")
+def crime():
+    """Return the homepage."""
+    return render_template("crime.html")
 
 # @app.route("/buy_list")
 # def names():
